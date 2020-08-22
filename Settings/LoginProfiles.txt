@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:LFEE_CTR:301:6
+ATIS2:Reims Controle  EN/FR
+ATIS3:Covering LFEE and LFFF Upper Airspace
+ATIS4:Have your charts! vatfrance.org/pilotbrief
+PROFILE:LFFF_M_CTR:301:6
+ATIS2:Paris Controle  EN/FR
+ATIS3:Covering LFFF and LFEE above FL195
+ATIS4:Have your charts! vatfrance.org/pilotbrief
+PROFILE:LFPG_APP:200:5
+ATIS2:De Gaulel Approach EN/FR
+ATIS3:Covering LFPG, LFPO, LFPB, LFOB
+ATIS4:Have your charts! vatfrance.org/pilotbrief
+END

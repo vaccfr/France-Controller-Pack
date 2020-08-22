@@ -1,0 +1,157 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200818185903-200901-0009.sct
+SECTORTITLE:LFXX-XXBeta_20200818185903-200901-0009.sct
+Free Text:LFMN Gates\10A:freetext
+Free Text:LFMN Gates\10C:freetext
+Free Text:LFMN Gates\11:freetext
+Free Text:LFMN Gates\12A:freetext
+Free Text:LFMN Gates\12C:freetext
+Free Text:LFMN Gates\13:freetext
+Free Text:LFMN Gates\14A:freetext
+Free Text:LFMN Gates\14E:freetext
+Free Text:LFMN Gates\15:freetext
+Free Text:LFMN Gates\16A:freetext
+Free Text:LFMN Gates\17:freetext
+Free Text:LFMN Gates\18A:freetext
+Free Text:LFMN Gates\18C:freetext
+Free Text:LFMN Gates\19B:freetext
+Free Text:LFMN Gates\20:freetext
+Free Text:LFMN Gates\21B:freetext
+Free Text:LFMN Gates\22:freetext
+Free Text:LFMN Gates\24A:freetext
+Free Text:LFMN Gates\24C:freetext
+Free Text:LFMN Gates\25B:freetext
+Free Text:LFMN Gates\26:freetext
+Free Text:LFMN Gates\28:freetext
+Free Text:LFMN Gates\2A:freetext
+Free Text:LFMN Gates\2B:freetext
+Free Text:LFMN Gates\2C:freetext
+Free Text:LFMN Gates\40:freetext
+Free Text:LFMN Gates\40A:freetext
+Free Text:LFMN Gates\41B:freetext
+Free Text:LFMN Gates\42:freetext
+Free Text:LFMN Gates\43B:freetext
+Free Text:LFMN Gates\44:freetext
+Free Text:LFMN Gates\45B:freetext
+Free Text:LFMN Gates\46A:freetext
+Free Text:LFMN Gates\46C:freetext
+Free Text:LFMN Gates\47B:freetext
+Free Text:LFMN Gates\48A:freetext
+Free Text:LFMN Gates\48C:freetext
+Free Text:LFMN Gates\49B:freetext
+Free Text:LFMN Gates\49C:freetext
+Free Text:LFMN Gates\50A:freetext
+Free Text:LFMN Gates\50C:freetext
+Free Text:LFMN Gates\51B:freetext
+Free Text:LFMN Gates\52A:freetext
+Free Text:LFMN Gates\52C:freetext
+Free Text:LFMN Gates\53:freetext
+Free Text:LFMN Gates\54B:freetext
+Free Text:LFMN Gates\55:freetext
+Free Text:LFMN Gates\57:freetext
+Free Text:LFMN Gates\5A:freetext
+Free Text:LFMN Gates\5C:freetext
+Free Text:LFMN Gates\6A:freetext
+Free Text:LFMN Gates\6C:freetext
+Free Text:LFMN Gates\8A:freetext
+Free Text:LFMN Gates\8C:freetext
+Free Text:LFMN Gates\9:freetext
+Free Text:LFMN Gates\W:freetext
+Free Text:LFMN Gates\X:freetext
+Free Text:LFMN Gates\Y:freetext
+Free Text:LFMN Points VFR\E:freetext
+Free Text:LFMN Points VFR\EA:freetext
+Free Text:LFMN Points VFR\EC:freetext
+Free Text:LFMN Points VFR\EW:freetext
+Free Text:LFMN Points VFR\HE:freetext
+Free Text:LFMN Points VFR\HS:freetext
+Free Text:LFMN Points VFR\HY:freetext
+Free Text:LFMN Points VFR\HZ:freetext
+Free Text:LFMN Points VFR\NA:freetext
+Free Text:LFMN Points VFR\NB:freetext
+Free Text:LFMN Points VFR\PE:freetext
+Free Text:LFMN Points VFR\PS:freetext
+Free Text:LFMN Points VFR\PX:freetext
+Free Text:LFMN Points VFR\SA:freetext
+Free Text:LFMN Points VFR\SB:freetext
+Free Text:LFMN Points VFR\TE:freetext
+Free Text:LFMN Points VFR\TS:freetext
+Free Text:LFMN Points VFR\WA:freetext
+Free Text:LFMN Points VFR\WN:freetext
+Free Text:LFMN Taxiways\A:freetext
+Free Text:LFMN Taxiways\A1:freetext
+Free Text:LFMN Taxiways\A2:freetext
+Free Text:LFMN Taxiways\A3:freetext
+Free Text:LFMN Taxiways\B:freetext
+Free Text:LFMN Taxiways\B1:freetext
+Free Text:LFMN Taxiways\B2:freetext
+Free Text:LFMN Taxiways\B3:freetext
+Free Text:LFMN Taxiways\C:freetext
+Free Text:LFMN Taxiways\C:freetext
+Free Text:LFMN Taxiways\C1:freetext
+Free Text:LFMN Taxiways\C2:freetext
+Free Text:LFMN Taxiways\D:freetext
+Free Text:LFMN Taxiways\D:freetext
+Free Text:LFMN Taxiways\EB:freetext
+Free Text:LFMN Taxiways\EB:freetext
+Free Text:LFMN Taxiways\EF:freetext
+Free Text:LFMN Taxiways\EG:freetext
+Free Text:LFMN Taxiways\EG:freetext
+Free Text:LFMN Taxiways\EY:freetext
+Free Text:LFMN Taxiways\F:freetext
+Free Text:LFMN Taxiways\F1:freetext
+Free Text:LFMN Taxiways\G:freetext
+Free Text:LFMN Taxiways\G1:freetext
+Free Text:LFMN Taxiways\G2:freetext
+Free Text:LFMN Taxiways\H:freetext
+Free Text:LFMN Taxiways\H1:freetext
+Free Text:LFMN Taxiways\H2:freetext
+Free Text:LFMN Taxiways\H3:freetext
+Free Text:LFMN Taxiways\J:freetext
+Free Text:LFMN Taxiways\J1:freetext
+Free Text:LFMN Taxiways\N:freetext
+Free Text:LFMN Taxiways\Q3:freetext
+Free Text:LFMN Taxiways\S:freetext
+Free Text:LFMN Taxiways\T:freetext
+Free Text:LFMN Taxiways\T:freetext
+Free Text:LFMN Taxiways\T:freetext
+Free Text:LFMN Taxiways\T:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\U:freetext
+Free Text:LFMN Taxiways\V:freetext
+Free Text:LFMN Taxiways\V:freetext
+Free Text:LFMN Taxiways\V:freetext
+Free Text:LFMN Taxiways\W:freetext
+Free Text:LFMN Taxiways\W:freetext
+Free Text:LFMN Taxiways\W:freetext
+Free Text:LFMN Taxiways\W:freetext
+Free Text:LFMN Taxiways\W3:freetext
+Free Text:LFMN Taxiways\Y:freetext
+Geo:LFFF Landmark Coastlines:
+Geo:LFFF Landmark Frontière:
+Regions:LFMN AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:228.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:43.647029:7.180424:43.670072:7.246647
+PLUGIN:vSMR:Airport:LFMN

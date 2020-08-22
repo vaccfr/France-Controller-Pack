@@ -1,0 +1,190 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200818185903-200901-0009.sct
+SECTORTITLE:LFXX-XXBeta_20200818185903-200901-0009.sct
+Free Text:LFSB Gates\1:freetext
+Free Text:LFSB Gates\11A:freetext
+Free Text:LFSB Gates\12A:freetext
+Free Text:LFSB Gates\14A:freetext
+Free Text:LFSB Gates\16A:freetext
+Free Text:LFSB Gates\17:freetext
+Free Text:LFSB Gates\18:freetext
+Free Text:LFSB Gates\2:freetext
+Free Text:LFSB Gates\20:freetext
+Free Text:LFSB Gates\22:freetext
+Free Text:LFSB Gates\23:freetext
+Free Text:LFSB Gates\24:freetext
+Free Text:LFSB Gates\26:freetext
+Free Text:LFSB Gates\26A:freetext
+Free Text:LFSB Gates\28A:freetext
+Free Text:LFSB Gates\29:freetext
+Free Text:LFSB Gates\29A:freetext
+Free Text:LFSB Gates\3:freetext
+Free Text:LFSB Gates\30A:freetext
+Free Text:LFSB Gates\32A:freetext
+Free Text:LFSB Gates\34:freetext
+Free Text:LFSB Gates\35:freetext
+Free Text:LFSB Gates\36:freetext
+Free Text:LFSB Gates\37:freetext
+Free Text:LFSB Gates\37A:freetext
+Free Text:LFSB Gates\38:freetext
+Free Text:LFSB Gates\38A:freetext
+Free Text:LFSB Gates\39:freetext
+Free Text:LFSB Gates\39A:freetext
+Free Text:LFSB Gates\4:freetext
+Free Text:LFSB Gates\40:freetext
+Free Text:LFSB Gates\41:freetext
+Free Text:LFSB Gates\42:freetext
+Free Text:LFSB Gates\43:freetext
+Free Text:LFSB Gates\43A:freetext
+Free Text:LFSB Gates\44:freetext
+Free Text:LFSB Gates\45:freetext
+Free Text:LFSB Gates\46:freetext
+Free Text:LFSB Gates\5:freetext
+Free Text:LFSB Gates\6A:freetext
+Free Text:LFSB Gates\9A:freetext
+Free Text:LFSB Gates\A1:freetext
+Free Text:LFSB Gates\Aire de compensation des compas:freetext
+Free Text:LFSB Gates\Aire de maintenance Sud Ouest:freetext
+Free Text:LFSB Gates\F1:freetext
+Free Text:LFSB Gates\F10:freetext
+Free Text:LFSB Gates\F11:freetext
+Free Text:LFSB Gates\F11A:freetext
+Free Text:LFSB Gates\F2:freetext
+Free Text:LFSB Gates\F21:freetext
+Free Text:LFSB Gates\F22:freetext
+Free Text:LFSB Gates\F3:freetext
+Free Text:LFSB Gates\F4:freetext
+Free Text:LFSB Gates\F4A:freetext
+Free Text:LFSB Gates\F5:freetext
+Free Text:LFSB Gates\F5A:freetext
+Free Text:LFSB Gates\F6:freetext
+Free Text:LFSB Gates\F7:freetext
+Free Text:LFSB Gates\F8:freetext
+Free Text:LFSB Gates\F9:freetext
+Free Text:LFSB Gates\F9A:freetext
+Free Text:LFSB Gates\G10:freetext
+Free Text:LFSB Gates\G11:freetext
+Free Text:LFSB Gates\G12:freetext
+Free Text:LFSB Gates\G14:freetext
+Free Text:LFSB Gates\G15:freetext
+Free Text:LFSB Gates\G16:freetext
+Free Text:LFSB Gates\G17:freetext
+Free Text:LFSB Gates\G18:freetext
+Free Text:LFSB Gates\G19:freetext
+Free Text:LFSB Gates\G20:freetext
+Free Text:LFSB Gates\G3:freetext
+Free Text:LFSB Gates\G4:freetext
+Free Text:LFSB Gates\G5:freetext
+Free Text:LFSB Gates\G6:freetext
+Free Text:LFSB Gates\G7:freetext
+Free Text:LFSB Gates\G8:freetext
+Free Text:LFSB Gates\G9:freetext
+Free Text:LFSB Gates\Gagba 1:freetext
+Free Text:LFSB Gates\Gagba 2:freetext
+Free Text:LFSB Gates\H:freetext
+Free Text:LFSB Gates\H:freetext
+Free Text:LFSB Gates\H1:freetext
+Free Text:LFSB Gates\H2:freetext
+Free Text:LFSB Gates\H3:freetext
+Free Text:LFSB Gates\H4:freetext
+Free Text:LFSB Gates\H5:freetext
+Free Text:LFSB Gates\H6:freetext
+Free Text:LFSB Gates\H7:freetext
+Free Text:LFSB Gates\Hangar:freetext
+Free Text:LFSB Gates\Hangar:freetext
+Free Text:LFSB Gates\Hangar Amac:freetext
+Free Text:LFSB Gates\Hangar Peinture:freetext
+Free Text:LFSB Gates\Hangars:freetext
+Free Text:LFSB Gates\J1:freetext
+Free Text:LFSB Gates\J2:freetext
+Free Text:LFSB Gates\J3:freetext
+Free Text:LFSB Gates\MTO:freetext
+Free Text:LFSB Gates\P-Amac:freetext
+Free Text:LFSB Gates\P-ASB:freetext
+Free Text:LFSB Gates\P-Cargo:freetext
+Free Text:LFSB Gates\P-Fret Express:freetext
+Free Text:LFSB Gates\P-Gagba:freetext
+Free Text:LFSB Gates\P-Japat:freetext
+Free Text:LFSB Gates\P-Jet 1:freetext
+Free Text:LFSB Gates\P-Jet 2:freetext
+Free Text:LFSB Gates\P-Nomade Aviation:freetext
+Free Text:LFSB Gates\P-Principal:freetext
+Free Text:LFSB Gates\RFFS:freetext
+Free Text:LFSB Gates\Terminaal Cargo:freetext
+Free Text:LFSB Gates\Terminal de Fret Express:freetext
+Free Text:LFSB Gates\TWR:freetext
+Free Text:LFSB Points VFR\E:freetext
+Free Text:LFSB Points VFR\N:freetext
+Free Text:LFSB Points VFR\NE:freetext
+Free Text:LFSB Points VFR\S:freetext
+Free Text:LFSB Points VFR\W:freetext
+Free Text:LFSB Points VFR\WA:freetext
+Free Text:LFSB Points VFR\WB:freetext
+Free Text:LFSB Taxiways\A:freetext
+Free Text:LFSB Taxiways\B:freetext
+Free Text:LFSB Taxiways\B:freetext
+Free Text:LFSB Taxiways\B:freetext
+Free Text:LFSB Taxiways\B:freetext
+Free Text:LFSB Taxiways\B:freetext
+Free Text:LFSB Taxiways\B:freetext
+Free Text:LFSB Taxiways\B:freetext
+Free Text:LFSB Taxiways\C:freetext
+Free Text:LFSB Taxiways\C1:freetext
+Free Text:LFSB Taxiways\D:freetext
+Free Text:LFSB Taxiways\D:freetext
+Free Text:LFSB Taxiways\E:freetext
+Free Text:LFSB Taxiways\E:freetext
+Free Text:LFSB Taxiways\F:freetext
+Free Text:LFSB Taxiways\F:freetext
+Free Text:LFSB Taxiways\G:freetext
+Free Text:LFSB Taxiways\H:freetext
+Free Text:LFSB Taxiways\J:freetext
+Free Text:LFSB Taxiways\K:freetext
+Free Text:LFSB Taxiways\L:freetext
+Free Text:LFSB Taxiways\L:freetext
+Free Text:LFSB Taxiways\M1:freetext
+Free Text:LFSB Taxiways\M2:freetext
+Free Text:LFSB Taxiways\N:freetext
+Free Text:LFSB Taxiways\Q:freetext
+Free Text:LFSB Taxiways\Q1:freetext
+Free Text:LFSB Taxiways\Q2:freetext
+Free Text:LFSB Taxiways\Q3:freetext
+Free Text:LFSB Taxiways\Q4:freetext
+Free Text:LFSB Taxiways\Q5:freetext
+Free Text:LFSB Taxiways\S:freetext
+Free Text:LFSB Taxiways\V:freetext
+Free Text:LFSB Taxiways\V:freetext
+Free Text:LFSB Taxiways\V:freetext
+Geo:LFSB Groundlayout Bâle Muhlouse:
+Runways:LFSB 08-26:name
+Runways:LFSB 15-33:extended centerline 1
+Runways:LFSB 15-33:extended centerline 1 left base
+Runways:LFSB 15-33:extended centerline 1 left ticks
+Runways:LFSB 15-33:extended centerline 1 left vectoring
+Runways:LFSB 15-33:extended centerline 1 right base
+Runways:LFSB 15-33:extended centerline 1 right ticks
+Runways:LFSB 15-33:extended centerline 1 right vectoring
+Runways:LFSB 15-33:extended centerline 2
+Runways:LFSB 15-33:extended centerline 2 left base
+Runways:LFSB 15-33:extended centerline 2 left ticks
+Runways:LFSB 15-33:extended centerline 2 left vectoring
+Runways:LFSB 15-33:extended centerline 2 right base
+Runways:LFSB 15-33:extended centerline 2 right ticks
+Runways:LFSB 15-33:extended centerline 2 right vectoring
+Runways:LFSB 15-33:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:47.591206:7.470169:47.627211:7.573643
