@@ -193,11 +193,11 @@ High airways:line:5135955:3.5:0:0:7
 High airways:name:2512998:3.5:0:0:8
 Fixes:symbol:5135955:1.0:0:0:7
 Fixes:name:6579300:3.5:0:0:1
-Sids:line:6579300:3.0:1:0:7
-Stars:line:6579300:3.0:1:0:7
+Sids:line:5135955:3.0:4:0:7
+Stars:line:5135955:3.0:4:0:7
 ARTCC high boundary:line:0:3.0:2:0:7
-ARTCC boundary:line:0:3.0:2:0:7
-ARTCC low boundary:line:0:3.0:2:0:7
+ARTCC boundary:line:4473924:3.0:2:0:7
+ARTCC low boundary:line:4473924:3.0:2:0:7
 Geo:line:16777215:3.0:0:0:7
 VORs:symbol:5135955:1.0:0:0:7
 VORs:name:6579300:3.5:0:0:14
@@ -1001,7 +1001,7 @@ END
 SIL
 m_Visible:1
 m_X:0
-m_Y:24
+m_Y:63
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:5
@@ -1025,7 +1025,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:70
+m_Y:95
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:14
@@ -1049,7 +1049,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:83
+m_Y:108
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:2

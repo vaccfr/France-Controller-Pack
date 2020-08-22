@@ -1,8 +1,411 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200818002422-200901-0008.sct
-SECTORTITLE:LFXX-XXBeta_20200818002422-200901-0008.sct
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200822221026-200901-0013.sct
+SECTORTITLE:LFXX-XXBeta_20200822221026-200901-0013.sct
+ARTCC boundary:FIZ LF SIV Geneva:
+ARTCC boundary:FIZ LFBD SIV Aquitaine 1:
+ARTCC boundary:FIZ LFBD SIV Aquitaine 2:
+ARTCC boundary:FIZ LFBH SIV La Rochelle 1:
+ARTCC boundary:FIZ LFBH SIV La Rochelle 2:
+ARTCC boundary:FIZ LFBI SIV Poitiers:
+ARTCC boundary:FIZ LFBL SIV Limoges:
+ARTCC boundary:FIZ LFBO SIV Toulouse 1:
+ARTCC boundary:FIZ LFBO SIV Toulouse 2:
+ARTCC boundary:FIZ LFBO SIV Toulouse 3:
+ARTCC boundary:FIZ LFBO SIV Toulouse 3.1:
+ARTCC boundary:FIZ LFBP SIV Pyrenée:
+ARTCC boundary:FIZ LFBZ SIV Biarritz:
+ARTCC boundary:FIZ LFKB SIV Bastia:
+ARTCC boundary:FIZ LFLB SIV 1 Chambery:
+ARTCC boundary:FIZ LFLB SIV 2 Chambery:
+ARTCC boundary:FIZ LFLC SIV 1A Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 1B Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 2A Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 2F Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 3 Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 4 Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 5 Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 6A Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 6B Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 7B Clermont-Ferrand:
+ARTCC boundary:FIZ LFLC SIV 8B Clermont-Ferrand:
+ARTCC boundary:FIZ LFLL SIV 1 Lyon:
+ARTCC boundary:FIZ LFLL SIV 2 Lyon:
+ARTCC boundary:FIZ LFLL SIV 3 Lyon:
+ARTCC boundary:FIZ LFLL SIV 4 Lyon:
+ARTCC boundary:FIZ LFLL SIV 5 Lyon:
+ARTCC boundary:FIZ LFLL SIV 6 Lyon:
+ARTCC boundary:FIZ LFML SIV 1 Provence:
+ARTCC boundary:FIZ LFML SIV 2 Provence:
+ARTCC boundary:FIZ LFML SIV 3 Provence:
+ARTCC boundary:FIZ LFML SIV 4 Provence:
+ARTCC boundary:FIZ LFML SIV 5 Provence:
+ARTCC boundary:FIZ LFML SIV 6 Provence:
+ARTCC boundary:FIZ LFML SIV 7 Provence:
+ARTCC boundary:FIZ LFML SIV 8 Provence:
+ARTCC boundary:FIZ LFMN SIV 1.1 Nice:
+ARTCC boundary:FIZ LFMN SIV 1.2 Nice:
+ARTCC boundary:FIZ LFMN SIV 2 Nice:
+ARTCC boundary:FIZ LFMN SIV 3.1 Nice:
+ARTCC boundary:FIZ LFMN SIV 3.2 Nice:
+ARTCC boundary:FIZ LFMT SIV 1 Montpellier:
+ARTCC boundary:FIZ LFMT SIV 2 Montpellier:
+ARTCC boundary:FIZ LFMT SIV 3 Montpellier:
+ARTCC boundary:FIZ LFMT SIV 4 Montpellier:
+ARTCC boundary:FIZ LFMT SIV 4.1 Montpellier:
+ARTCC boundary:FIZ LFMT SIV 5 Montpellier:
+ARTCC boundary:FIZ LFMT SIV 6 Montpellier:
+ARTCC boundary:FIZ LFMT SIV 7 Montpellier:
+ARTCC boundary:FIZ LFPM SIV 1 Seine:
+ARTCC boundary:FIZ LFPM SIV 2 Seine:
+ARTCC boundary:FIZ LFPM SIV 3 Seine:
+ARTCC boundary:FIZ LFPM SIV 4 Seine:
+ARTCC boundary:FIZ LFPM SIV 5 Seine:
+ARTCC boundary:FIZ LFPM SIV 6 Seine:
+ARTCC boundary:FIZ LFPM SIV 7 Seine:
+ARTCC boundary:FIZ LFPM SIV 8 Seine:
+ARTCC boundary:FIZ LFPN SIV 1 Chevreuse:
+ARTCC boundary:FIZ LFPN SIV 2 Chevreuse:
+ARTCC boundary:FIZ LFPN SIV 3 Chevreuse:
+ARTCC boundary:FIZ LFQQ SIV 1 Lille:
+ARTCC boundary:FIZ LFQQ SIV 2 Lille:
+ARTCC boundary:FIZ LFQQ SIV 3 Lille:
+ARTCC boundary:FIZ LFQQ SIV 4 Lille:
+ARTCC boundary:FIZ LFQQ SIV 5 Lille:
+ARTCC boundary:FIZ LFRB SIV Iroise 1:
+ARTCC boundary:FIZ LFRB SIV Iroise 2:
+ARTCC boundary:FIZ LFRB SIV Iroise 3:
+ARTCC boundary:FIZ LFRB SIV Iroise 4:
+ARTCC boundary:FIZ LFRB SIV Iroise 5:
+ARTCC boundary:FIZ LFRB SIV Iroise 6.1:
+ARTCC boundary:FIZ LFRB SIV Iroise 6.2:
+ARTCC boundary:FIZ LFRB SIV Iroise 7:
+ARTCC boundary:FIZ LFRG SIV Deauville:
+ARTCC boundary:FIZ LFRN SIV Rennes nord:
+ARTCC boundary:FIZ LFRN SIV Rennes sud:
+ARTCC boundary:FIZ LFRS SIV Nantes 1.1:
+ARTCC boundary:FIZ LFRS SIV Nantes 1.2:
+ARTCC boundary:FIZ LFRS SIV Nantes 2.1:
+ARTCC boundary:FIZ LFRS SIV Nantes 2.2:
+ARTCC boundary:FIZ LFRS SIV Nantes 2.3:
+ARTCC boundary:FIZ LFRS SIV Nantes 3.1:
+ARTCC boundary:FIZ LFRS SIV Nantes 3.2:
+ARTCC boundary:TMA LFBD TMA 1 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 10 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 2-1 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 2-2 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 3 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 3-1 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 3-2 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 4 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 5 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 6 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 7 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 8-1 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 8-2 Aquitaine:
+ARTCC boundary:TMA LFBD TMA 9 Aquitaine:
+ARTCC boundary:TMA LFBH TMA 1 La Rochelle:
+ARTCC boundary:TMA LFBH TMA 2 La Rochelle:
+ARTCC boundary:TMA LFBI TMA 1 Poitiers:
+ARTCC boundary:TMA LFBI TMA 2 Poitiers:
+ARTCC boundary:TMA LFBI TMA 3 Poitiers:
+ARTCC boundary:TMA LFBI TMA 4 Poitiers:
+ARTCC boundary:TMA LFBI TMA 5 Poitiers:
+ARTCC boundary:TMA LFBL TMA 1 Limoges:
+ARTCC boundary:TMA LFBL TMA 2 Limoges:
+ARTCC boundary:TMA LFBL TMA 3 Limoges:
+ARTCC boundary:TMA LFBL TMA 4 Limoges:
+ARTCC boundary:TMA LFBL TMA 5 Limoges:
+ARTCC boundary:TMA LFBO tma 1 Toulouse:
+ARTCC boundary:TMA LFBO TMA 2 Toulouse:
+ARTCC boundary:TMA LFBO TMA 3 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4-1 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4-2 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4-3 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4-4 Toulouse SUD:
+ARTCC boundary:TMA LFBO TMA 4-5 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4-6 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4-7 Toulouse:
+ARTCC boundary:TMA LFBO TMA 4-8 Toulouse:
+ARTCC boundary:TMA LFBO TMA 5 Toulouse:
+ARTCC boundary:TMA LFBO TMA 6 Toulouse:
+ARTCC boundary:TMA LFBT TMA 1 Pyrennée:
+ARTCC boundary:TMA LFBT TMA 2 Pyrennée:
+ARTCC boundary:TMA LFBT TMA 3 Pyrennée:
+ARTCC boundary:TMA LFBT TMA 4 Pyrennée:
+ARTCC boundary:TMA LFBT TMA 5 Pyrennée:
+ARTCC boundary:TMA LFBT TMA 6 Pyrenneé:
+ARTCC boundary:TMA LFBT TMA 7 Pyrennée:
+ARTCC boundary:TMA LFBT TMA 8 Pyrennée:
+ARTCC boundary:TMA LFBZ TMA 1 Biarritz:
+ARTCC boundary:TMA LFBZ TMA 2 Biarritz:
+ARTCC boundary:TMA LFBZ TMA 3 Biarritz:
+ARTCC boundary:TMA LFBZ TMA 4 Biarritz:
+ARTCC boundary:TMA LFBZ TMA 5 Biarritz:
+ARTCC boundary:TMA LFBZ TMA 6 Biarritz:
+ARTCC boundary:TMA LFCR TMA 1 Rodez:
+ARTCC boundary:TMA LFCR TMA 2 Rodez:
+ARTCC boundary:TMA LFJL TMA 1 Metz:
+ARTCC boundary:TMA LFJL TMA 1.1 Thionville Bas Metz:
+ARTCC boundary:TMA LFJL TMA 1.2 Thionville Haut Metz:
+ARTCC boundary:TMA LFJL TMA 2 Metz:
+ARTCC boundary:TMA LFJL TMA 3 Metz:
+ARTCC boundary:TMA LFJL TMA 4 Metz:
+ARTCC boundary:TMA LFJL TMA 5 Metz:
+ARTCC boundary:TMA LFJL TMA 5.1 Sarre Metz:
+ARTCC boundary:TMA LFKB TMA 1 Bastia:
+ARTCC boundary:TMA LFKB TMA 2 Bastia:
+ARTCC boundary:TMA LFKB TMA 3 Bastia:
+ARTCC boundary:TMA LFKB TMA 4 Bastia:
+ARTCC boundary:TMA LFKB TMA 5 Bastia:
+ARTCC boundary:TMA LFKB TMA 6 Bastia:
+ARTCC boundary:TMA LFKJ TMA 1 Ajaccio:
+ARTCC boundary:TMA LFKJ TMA 2 Ajaccio:
+ARTCC boundary:TMA LFKJ TMA 3 Ajaccio:
+ARTCC boundary:TMA LFKJ TMA 4 Ajaccio:
+ARTCC boundary:TMA LFKJ TMA 5 Ajaccio:
+ARTCC boundary:TMA LFLB TMA 1 Chambery:
+ARTCC boundary:TMA LFLB TMA 2 Chambery:
+ARTCC boundary:TMA LFLB TMA 3 Chambery:
+ARTCC boundary:TMA LFLC TMA 1 Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 2 Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 2.1 Vic Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 2.2 Champeix Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 2.3 Orcines Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 3 Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 4 Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 4.1 Job Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 4.2 Onde Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 5 Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 5.1 Puy de dome Clermont-Ferrand:
+ARTCC boundary:TMA LFLC TMA 6 Clermont-Ferrand:
+ARTCC boundary:TMA LFLL Lyon 1.1 Tour du pin:
+ARTCC boundary:TMA LFLL TMA 1 Lyon:
+ARTCC boundary:TMA LFLL TMA 1.2 Villefranches Lyon:
+ARTCC boundary:TMA LFLL TMA 10 Lyon:
+ARTCC boundary:TMA LFLL TMA 11 Lyon:
+ARTCC boundary:TMA LFLL TMA 12 Lyon:
+ARTCC boundary:TMA LFLL TMA 13 Lyon:
+ARTCC boundary:TMA LFLL TMA 14 Lyon:
+ARTCC boundary:TMA LFLL TMA 2 Lyon:
+ARTCC boundary:TMA LFLL TMA 2.1 Lyon:
+ARTCC boundary:TMA LFLL TMA 2.2 Lyon:
+ARTCC boundary:TMA LFLL TMA 2.3 Lyon:
+ARTCC boundary:TMA LFLL TMA 2.4 Nord-est Lyon:
+ARTCC boundary:TMA LFLL TMA 2.5 Sud-est Lyon:
+ARTCC boundary:TMA LFLL Tma 3 Lyon:
+ARTCC boundary:TMA LFLL TMA 4 Lyon:
+ARTCC boundary:TMA LFLL TMA 4.1 Lyon:
+ARTCC boundary:TMA LFLL TMA 4.2 Beaujolais Lyon:
+ARTCC boundary:TMA LFLL TMA 4.3 Bugey Onde Lyon:
+ARTCC boundary:TMA LFLL TMA 4.4 Bugey Onde Lyon:
+ARTCC boundary:TMA LFLL TMA 5 Lyon:
+ARTCC boundary:TMA LFLL TMA 6 Lyon:
+ARTCC boundary:TMA LFLL TMA 7 Lyon:
+ARTCC boundary:TMA LFLL TMA 8 Lyon:
+ARTCC boundary:TMA LFLL TMA 8.1 Oyonnax nord Lyon:
+ARTCC boundary:TMA LFLL TMA 9 Lyon:
+ARTCC boundary:TMA LFLL TMA 9.1 Lyon:
+ARTCC boundary:TMA LFML TMA 1 Provence:
+ARTCC boundary:TMA LFML TMA 1.1 touloubre ouest Provence:
+ARTCC boundary:TMA LFML TMA 10 Provence:
+ARTCC boundary:TMA LFML TMA 11 Provence:
+ARTCC boundary:TMA LFML TMA 12 Provence:
+ARTCC boundary:TMA LFML TMA 14 Provence:
+ARTCC boundary:TMA LFML TMA 15 Provence:
+ARTCC boundary:TMA LFML TMA 16 Provence:
+ARTCC boundary:TMA LFML TMA 17 Provence:
+ARTCC boundary:TMA LFML TMA 2 Provence:
+ARTCC boundary:TMA LFML TMA 2.1 Touloubre est Provence:
+ARTCC boundary:TMA LFML TMA 3 Provence:
+ARTCC boundary:TMA LFML TMA 4 Provence:
+ARTCC boundary:TMA LFML TMA 5 Provence:
+ARTCC boundary:TMA LFML TMA 6 Provence:
+ARTCC boundary:TMA LFML TMA 7 Provence:
+ARTCC boundary:TMA LFML TMA 8 Provence:
+ARTCC boundary:TMA LFML TMA 8.1 Durance Provence:
+ARTCC boundary:TMA LFML TMA 9 Provence:
+ARTCC boundary:TMA LFMN TMA 1 Nice:
+ARTCC boundary:TMA LFMN TMA 10 Nice:
+ARTCC boundary:TMA LFMN TMA 11 Nice:
+ARTCC boundary:TMA LFMN TMA 12 Nice:
+ARTCC boundary:TMA LFMN TMA 2 Nice:
+ARTCC boundary:TMA LFMN Tma 3 Nice:
+ARTCC boundary:TMA LFMN TMA 4 Nice:
+ARTCC boundary:TMA LFMN TMA 5 Nice:
+ARTCC boundary:TMA LFMN TMA 6 Nice:
+ARTCC boundary:TMA LFMN TMA 7 Nice:
+ARTCC boundary:TMA LFMN TMA 8 Nice:
+ARTCC boundary:TMA LFMN TMA 9 Nice:
+ARTCC boundary:TMA LFMT TMA 1 Montpellier:
+ARTCC boundary:TMA LFMT TMA 10 Montpellier:
+ARTCC boundary:TMA LFMT TMA 11 Montpellier:
+ARTCC boundary:TMA LFMT TMA 12 Montpellier:
+ARTCC boundary:TMA LFMT TMA 13 Montpellier:
+ARTCC boundary:TMA LFMT TMA 14 Montpellier:
+ARTCC boundary:TMA LFMT TMA 15 Montpellier:
+ARTCC boundary:TMA LFMT TMA 16 Montpellier:
+ARTCC boundary:TMA LFMT TMA 17 Montpellier:
+ARTCC boundary:TMA LFMT TMA 18 Montpellier:
+ARTCC boundary:TMA LFMT TMA 19 Montpellier:
+ARTCC boundary:TMA LFMT TMA 2 Montpellier:
+ARTCC boundary:TMA LFMT TMA 20 Montpellier:
+ARTCC boundary:TMA LFMT TMA 21 Montpellier:
+ARTCC boundary:TMA LFMT TMA 22 Montpellier:
+ARTCC boundary:TMA LFMT TMA 23 Montpellier:
+ARTCC boundary:TMA LFMT TMA 3 Montpellier:
+ARTCC boundary:TMA LFMT TMA 3.1 Montpellier:
+ARTCC boundary:TMA LFMT TMA 4 Montpellier:
+ARTCC boundary:TMA LFMT TMA 5 Montpellier:
+ARTCC boundary:TMA LFMT TMA 6 Montpellie:
+ARTCC boundary:TMA LFMT TMA 7 Montpellier:
+ARTCC boundary:TMA LFMT TMA 8 Montpellier:
+ARTCC boundary:TMA LFMT TMA 9 Montpellier:
+ARTCC boundary:TMA LFOA TMA 1.1 Avord:
+ARTCC boundary:TMA LFOA TMA 1.2 Avord:
+ARTCC boundary:TMA LFOA TMA 2 Avord:
+ARTCC boundary:TMA LFOB TMA 1 Beauvais:
+ARTCC boundary:TMA LFOB TMA 2 Beauvais:
+ARTCC boundary:TMA LFOB TMA 3.1 Beauvais:
+ARTCC boundary:TMA LFOB TMA 3.2 Beauvais:
+ARTCC boundary:TMA LFOB TMA 4 Beauvais:
+ARTCC boundary:TMA LFOE TMA 1 Evreux:
+ARTCC boundary:TMA LFOE TMA 2 Evreux:
+ARTCC boundary:TMA LFOJ Orleans Approche:
+ARTCC boundary:TMA LFOJ TMA 1.1 Orleans:
+ARTCC boundary:TMA LFOJ TMA 1.2 Orleans:
+ARTCC boundary:TMA LFOJ TMA 2 Orleans:
+ARTCC boundary:TMA LFOJ TMA 3 Orleans:
+ARTCC boundary:TMA LFOJ TMA 4 Orleans:
+ARTCC boundary:TMA LFOJ TMA 5.1 Orleans:
+ARTCC boundary:TMA LFOJ TMA 5.2 Orleans:
+ARTCC boundary:TMA LFOJ TMA 6.1 Orleans:
+ARTCC boundary:TMA LFOJ TMA 6.2 Orleans:
+ARTCC boundary:TMA LFOJ TMA 7 Orleans:
+ARTCC boundary:TMA LFOJ TMA 8 Orleans:
+ARTCC boundary:TMA LFOP TMA 1 Rouen:
+ARTCC boundary:TMA LFOP TMA 2 Rouen:
+ARTCC boundary:TMA LFOT TMA 1 Tours:
+ARTCC boundary:TMA LFOT TMA 2 Tours:
+ARTCC boundary:TMA LFOT TMA 3.1 Tours:
+ARTCC boundary:TMA LFOT TMA 3.2 Tours:
+ARTCC boundary:TMA LFOT TMA 4 Tours:
+ARTCC boundary:TMA LFOT TMA 5 Tours:
+ARTCC boundary:TMA LFOT TMA 6 Tours:
+ARTCC boundary:TMA LFOT Tours Approche:
+ARTCC boundary:TMA LFPG TMA 10 Paris:
+ARTCC boundary:TMA LFPG TMA 11 Paris:
+ARTCC boundary:TMA LFPG TMA 12 Paris:
+ARTCC boundary:TMA LFPG TMA 13-1 Paris:
+ARTCC boundary:TMA LFPG TMA 13-2 Paris:
+ARTCC boundary:TMA LFPG TMA 14 Paris:
+ARTCC boundary:TMA LFPG TMA 15 Paris:
+ARTCC boundary:TMA LFPG TMA 15-1 Paris:
+ARTCC boundary:TMA LFPG TMA 15-2 Paris:
+ARTCC boundary:TMA LFPG TMA 16 Paris:
+ARTCC boundary:TMA LFPG TMA 5 Paris:
+ARTCC boundary:TMA LFPG TMA 6 Paris:
+ARTCC boundary:TMA LFPG TMA 7 Paris:
+ARTCC boundary:TMA LFPG TMA 8 Paris:
+ARTCC boundary:TMA LFPG TMA 8-1 Paris:
+ARTCC boundary:TMA LFPG TMA 8-2 Paris:
+ARTCC boundary:TMA LFPG TMA 9 Paris:
+ARTCC boundary:TMA LFPM TMA 1 Seine:
+ARTCC boundary:TMA LFPM TMA 2 Seine:
+ARTCC boundary:TMA LFPM TMA 3 Seine:
+ARTCC boundary:TMA LFPM TMA 4 Seine:
+ARTCC boundary:TMA LFPM TMA 5 Seine:
+ARTCC boundary:TMA LFPM TMA 6 Seine:
+ARTCC boundary:TMA LFPT TMA Pontoise:
+ARTCC boundary:TMA LFQE TMA 1 Etain:
+ARTCC boundary:TMA LFQE TMA 2 Etain:
+ARTCC boundary:TMA LFQE TMA 3 Etain:
+ARTCC boundary:TMA LFQI Cambrai approche:
+ARTCC boundary:TMA LFQI TMA 1 Cambrai:
+ARTCC boundary:TMA LFQI TMA 2 Cambrai:
+ARTCC boundary:TMA LFQI TMA 3 Cambrai:
+ARTCC boundary:TMA LFQQ TMA 1 Lille:
+ARTCC boundary:TMA LFQQ TMA 1.1 Lille:
+ARTCC boundary:TMA LFQQ TMA 10 Lille:
+ARTCC boundary:TMA LFQQ TMA 11 Lille:
+ARTCC boundary:TMA LFQQ TMA 12 Lille:
+ARTCC boundary:TMA LFQQ TMA 2 Lille:
+ARTCC boundary:TMA LFQQ TMA 3 Lille:
+ARTCC boundary:TMA LFQQ TMA 3.1 Lille:
+ARTCC boundary:TMA LFQQ TMA 5 Lille:
+ARTCC boundary:TMA LFQQ TMA 6 Lille:
+ARTCC boundary:TMA LFQQ TMA 7 Lille:
+ARTCC boundary:TMA LFQQ TMA 8 Lille:
+ARTCC boundary:TMA LFQQ TMA 9 Lille:
+ARTCC boundary:TMA LFRB TMA 1 Iroise:
+ARTCC boundary:TMA LFRB TMA 2.1 Iroise:
+ARTCC boundary:TMA LFRB TMA 2.2 Iroise:
+ARTCC boundary:TMA LFRB TMA 3 Iroise:
+ARTCC boundary:TMA LFRB TMA 4 Iroise:
+ARTCC boundary:TMA LFRG TMA 1 Deauville:
+ARTCC boundary:TMA LFRG TMA 2 Deauville:
+ARTCC boundary:TMA LFRG TMA 3 Deauville:
+ARTCC boundary:TMA LFRH TMA 1 Lorient:
+ARTCC boundary:TMA LFRH TMA 2 Lorient:
+ARTCC boundary:TMA LFRH TMA 3 Lorient:
+ARTCC boundary:TMA LFRN TMA 1 Rennes:
+ARTCC boundary:TMA LFRN TMA 2 Rennes:
+ARTCC boundary:TMA LFRN TMA 3 Rennes:
+ARTCC boundary:TMA LFRN TMA 4 Rennes:
+ARTCC boundary:TMA LFRN TMA 5 Rennes:
+ARTCC boundary:TMA LFRS TMA 1 Nantes:
+ARTCC boundary:TMA LFRS TMA 2 Nantes:
+ARTCC boundary:TMA LFRS TMA 3 Nantes:
+ARTCC boundary:TMA LFRS TMA 4 Nantes:
+ARTCC boundary:TMA LFRS TMA 5 Nantes:
+ARTCC boundary:TMA LFSB TMA Bâle Muhlouse:
+ARTCC boundary:TMA LFSB TMA Germany LFSB:
+ARTCC boundary:TMA LFSB TMA sectors HX LFSB:
+ARTCC boundary:TMA LFSB TMA Switzerland LFSB:
+ARTCC boundary:TMA LFSC TMA 1 Colmar:
+ARTCC boundary:TMA LFSC TMA 2 Colmar:
+ARTCC boundary:TMA LFSC TMA 2.1 Colmar:
+ARTCC boundary:TMA LFSC TMA 3 Colmar:
+ARTCC boundary:TMA LFSC TMA 5 Colmar:
+ARTCC boundary:TMA LFSC TMA 5.1 Bonhomme Colmar:
+ARTCC boundary:TMA LFSC TMA 5.2 Longemer Colmar:
+ARTCC boundary:TMA LFSC TMA 5.3 Markstein Colmar:
+ARTCC boundary:TMA LFSC TMA 6 Colmar:
+ARTCC boundary:TMA LFSC TMA 7 Colmar:
+ARTCC boundary:TMA LFSC TMA 8 Colmar:
+ARTCC boundary:TMA LFSI TMA 1.1 Saint-Dizier:
+ARTCC boundary:TMA LFSI TMA 1.2 Saint-Dizier:
+ARTCC boundary:TMA LFSI TMA 2 Saint-Dizier:
+ARTCC boundary:TMA LFSI TMA 3 Saint-Dizier:
+ARTCC boundary:TMA LFSO TMA 1.3 Nancy:
+ARTCC boundary:TMA LFSO TMA 2 Nancy:
+ARTCC boundary:TMA LFSO TMA 3 Nancy:
+ARTCC boundary:TMA LFST Délég. Stuttgart nord Strasbourg:
+ARTCC boundary:TMA LFST Délég. Stuttgart sud Strasbourg:
+ARTCC boundary:TMA LFST TMA 1 Strasbourg:
+ARTCC boundary:TMA LFST TMA 1.1 Délég. Stuttgart Strasbourg:
+ARTCC boundary:TMA LFST TMA 1.2 Haguenau sud Strasbourg:
+ARTCC boundary:TMA LFST TMA 2.1 Strasbourg:
+ARTCC boundary:TMA LFST TMA 2.2 Strasbourg:
+ARTCC boundary:TMA LFST TMA 2.3 Haguenau nord Strasbourg:
+ARTCC boundary:TMA LFST TMA 3 Strasbourg:
+ARTCC boundary:TMA LFST TMA 4 Strasbourg:
+ARTCC boundary:TMA LFST TMA 5 Strasbourg:
+ARTCC boundary:TMA LFST TMA 8 Strasbourg:
+ARTCC boundary:TMA LFST TMA 9 Strasbourg:
+ARTCC boundary:TMA LFST TMA Strasbourg Approche:
+ARTCC boundary:TMA LFSX TMA 1 Luxeuil:
+ARTCC boundary:TMA LFSX TMA 2 Luxeuil:
+ARTCC boundary:TMA LFSX TMA 3 Luxeuil:
+ARTCC boundary:TMA LFSX TMA 4 Luxeuil:
+ARTCC boundary:TMA LFSX TMA Luxeuil Approche:
+ARTCC boundary:TMA LFTH CTA 1.1 Toulon:
+ARTCC boundary:TMA LFTH CTA 1.2 Toulon:
+ARTCC boundary:TMA LFTH CTA 1.3 Toulon:
+ARTCC boundary:TMA LFTH CTA 2 Toulon:
+ARTCC boundary:Tower CTR LFBE CTR Bergerac:
 Free Text:LFAD Points VFR\N:freetext
 Free Text:LFAD Points VFR\NA:freetext
 Free Text:LFAQ Points VFR\N:freetext
@@ -877,8 +1280,13 @@ Geo:LF Prohibited area Mont-de-Marsan P 35:
 Geo:LF Prohibited area Saint Alban P 18:
 Geo:LF Prohibited area Toulon P 62:
 Geo:LF Prohibited area Tricastin P 19:
+Geo:LFBB Landmark Coastline:
+Geo:LFBB Landmark Frontière:
 Geo:LFFF Landmark Coastlines:
 Geo:LFFF Landmark Frontière:
+Geo:LFMM Landmark Coastlines:
+Geo:LFMM Landmark Frontières:
+Geo:LFRR Landmark Coastlines:
 Runways:EBCI 06-24:centerline
 Runways:EBCI 06-24:extended centerline 1
 Runways:EBCI 06-24:extended centerline 1 left base
@@ -7582,4 +7990,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:49.186851:0.355870:51.185518:6.099817
+WINDOWAREA:46.976872:-3.153711:50.880520:8.064936

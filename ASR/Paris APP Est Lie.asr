@@ -1,12 +1,18 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200818185903-200901-0009.sct
-SECTORTITLE:LFXX-XXBeta_20200818185903-200901-0009.sct
-ARTCC boundary:Tower CTR LFPG Paris 1 Tower:
-ARTCC boundary:Tower CTR LFPG Paris 2 Tower:
-ARTCC boundary:Tower CTR LFPG Paris 3 Tower:
-ARTCC boundary:Tower CTR LFPT Pontoise Tower:
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200822221026-200901-0013.sct
+SECTORTITLE:LFXX-XXBeta_20200822221026-200901-0013.sct
+Fixes:BANOX:name
+Fixes:BANOX:symbol
+Fixes:LORNI:name
+Fixes:LORNI:symbol
+Fixes:MOBRO:name
+Fixes:MOBRO:symbol
+Fixes:MOPAR:name
+Fixes:MOPAR:symbol
+Fixes:OKIPA:name
+Fixes:OKIPA:symbol
 Geo:LF Prohibited area Blayais-Braud et Saint Louis P 1:
 Geo:LF Prohibited area Cadarache P 10:
 Geo:LF Prohibited area Civaux P 2:
@@ -33,7 +39,6 @@ Geo:LFPG Vectors INI Est:
 Geo:LFPO Centerlines 06:
 Geo:LFPO Vectors INI EST:
 Geo:LFPO Vectors VEBEK 2E:
-Geo:LFPT TMA TMA Pontoise:
 Regions:LFPG VPE EST:polygon
 Regions:LFPO VPE EST:polygon
 Runways:EBCI 06-24:centerline
@@ -482,6 +487,24 @@ Runways:LSZB 14R-32L:centerline
 Runways:LSZH 10-28:centerline
 Runways:LSZH 14-32:centerline
 Runways:LSZH 16-34:centerline
+Stars:LFPG STAR 08L BIBAX8E:
+Stars:LFPG STAR 08L DINAN8E:
+Stars:LFPG STAR 08L DJL8E:
+Stars:LFPG STAR 08L EPL8E:
+Stars:LFPG STAR 08L KEPER7E:
+Stars:LFPG STAR 08L KOVAK7E:
+Stars:LFPG STAR 08L LUKIP8E:
+Stars:LFPG STAR 08L MATIX8E:
+Stars:LFPG STAR 08L MOPIL8E:
+Stars:LFPG STAR 08L MOU8E:
+Stars:LFPG STAR 08L PIBAT8E:
+Stars:LFPG STAR 08L RLP8E:
+Stars:LFPG STAR 08L RLP8H:
+Stars:LFPG STAR 08L ROMGO7E:
+Stars:LFPG STAR 08L SABLE7E:
+Stars:LFPG STAR 08L TINIL8E:
+Stars:LFPG STAR 08L TRO8E:
+Stars:LFPG STAR 08L VEDUS8E:
 SHOWC:1
 SHOWSB:0
 BELOW:100
@@ -495,4 +518,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:CoFrance
-WINDOWAREA:48.827659:1.711340:49.264565:2.966961
+WINDOWAREA:48.481116:0.869216:49.547783:3.934697

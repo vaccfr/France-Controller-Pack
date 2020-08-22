@@ -1,8 +1,18 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200821184846-200901-0012.sct
-SECTORTITLE:LFXX-XXBeta_20200821184846-200901-0012.sct
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200822221026-200901-0013.sct
+SECTORTITLE:LFXX-XXBeta_20200822221026-200901-0013.sct
+Fixes:BANOX:name
+Fixes:BANOX:symbol
+Fixes:LORNI:name
+Fixes:LORNI:symbol
+Fixes:MOBRO:name
+Fixes:MOBRO:symbol
+Fixes:MOPAR:name
+Fixes:MOPAR:symbol
+Fixes:OKIPA:name
+Fixes:OKIPA:symbol
 Geo:LF Prohibited area Blayais-Braud et Saint Louis P 1:
 Geo:LF Prohibited area Cadarache P 10:
 Geo:LF Prohibited area Civaux P 2:
@@ -476,6 +486,23 @@ Runways:LSZB 14R-32L:centerline
 Runways:LSZH 10-28:centerline
 Runways:LSZH 14-32:centerline
 Runways:LSZH 16-34:centerline
+Stars:LFPG STAR 26L BIBAX8W:
+Stars:LFPG STAR 26L DINAN8W:
+Stars:LFPG STAR 26L DJL8W:
+Stars:LFPG STAR 26L EPL8W:
+Stars:LFPG STAR 26L KEPER7W:
+Stars:LFPG STAR 26L KOVAK7W:
+Stars:LFPG STAR 26L LUKIP8W:
+Stars:LFPG STAR 26L MATIX8W:
+Stars:LFPG STAR 26L MOPIL8W:
+Stars:LFPG STAR 26L MOU8W:
+Stars:LFPG STAR 26L PIBAT8W:
+Stars:LFPG STAR 26L RLP8W:
+Stars:LFPG STAR 26L ROMGO7W:
+Stars:LFPG STAR 26L SABLE7W:
+Stars:LFPG STAR 26L TINIL8W:
+Stars:LFPG STAR 26L TRO8W:
+Stars:LFPG STAR 26L VEDUS8W:
 SHOWC:1
 SHOWSB:0
 BELOW:100
@@ -489,4 +516,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:CoFrance Approach
-WINDOWAREA:48.406270:1.078569:49.585417:4.339187
+WINDOWAREA:47.823938:-0.780331:50.126959:5.838295
