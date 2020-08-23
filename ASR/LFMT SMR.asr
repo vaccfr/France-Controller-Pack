@@ -1,0 +1,116 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:F:\Euroscope V2\Documents\PRF\LFMM\..\..\Sector Files\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_MONTPELLIER:
+ARTCC boundary:TMA_MONTPELLIER:
+ARTCC high boundary:UIR_MARSEILLE:
+Free Text:LFMT Points VFR\AM :freetext
+Free Text:LFMT Points VFR\ER:freetext
+Free Text:LFMT Points VFR\ES:freetext
+Free Text:LFMT Points VFR\N :freetext
+Free Text:LFMT Points VFR\NC :freetext
+Free Text:LFMT Points VFR\NE :freetext
+Free Text:LFMT Points VFR\NW :freetext
+Free Text:LFMT Points VFR\SA:freetext
+Free Text:LFMT Points VFR\SF :freetext
+Free Text:LFMT Points VFR\SW:freetext
+Free Text:LFMT Points VFR\W :freetext
+Free Text:LFMT Taxiways\J:freetext
+Free Text:LFMT Taxiways\K1:freetext
+Free Text:LFMT Taxiways\K2:freetext
+Free Text:LFMT Taxiways\L1:freetext
+Free Text:LFMT Taxiways\L2:freetext
+Free Text:LFMT Taxiways\L3:freetext
+Free Text:LFMT Taxiways\M:freetext
+Free Text:LFMT Taxiways\R1:freetext
+Free Text:LFMT Taxiways\S1:freetext
+Free Text:LFMT Taxiways\S2:freetext
+Free Text:LFMT Taxiways\S3:freetext
+Free Text:LFMT Taxiways\S4:freetext
+Free Text:LFMT Taxiways\T1:freetext
+Free Text:LFMT Taxiways\T2:freetext
+Free Text:LFMT Taxiways\T3:freetext
+Free Text:LFMT Taxiways\T4:freetext
+Free Text:LFMT Taxiways\T5:freetext
+Free Text:LFMT Taxiways\T6:freetext
+Free Text:LFMT Taxiways\V:freetext
+Free Text:LFMT Taxiways\W1:freetext
+Free Text:LFMT Taxiways\W2:freetext
+Free Text:LFMT Taxiways\Y:freetext
+Geo:CoastLine:
+Geo:LFMT:
+Runways:LFMT 12L-30R:centerline
+Runways:LFMT 12L-30R:extended centerline 1
+Runways:LFMT 12L-30R:extended centerline 1 left base
+Runways:LFMT 12L-30R:extended centerline 1 left ticks
+Runways:LFMT 12L-30R:extended centerline 1 left vectoring
+Runways:LFMT 12L-30R:extended centerline 1 right base
+Runways:LFMT 12L-30R:extended centerline 1 right ticks
+Runways:LFMT 12L-30R:extended centerline 1 right vectoring
+Runways:LFMT 12L-30R:extended centerline 2
+Runways:LFMT 12L-30R:extended centerline 2 left base
+Runways:LFMT 12L-30R:extended centerline 2 left ticks
+Runways:LFMT 12L-30R:extended centerline 2 left vectoring
+Runways:LFMT 12L-30R:extended centerline 2 right base
+Runways:LFMT 12L-30R:extended centerline 2 right ticks
+Runways:LFMT 12L-30R:extended centerline 2 right vectoring
+Runways:LFMT 12L-30R:name
+Runways:LFMT 12R-30L:centerline
+Runways:LFMT 12R-30L:extended centerline 1
+Runways:LFMT 12R-30L:extended centerline 1 left base
+Runways:LFMT 12R-30L:extended centerline 1 left ticks
+Runways:LFMT 12R-30L:extended centerline 1 left vectoring
+Runways:LFMT 12R-30L:extended centerline 1 right base
+Runways:LFMT 12R-30L:extended centerline 1 right ticks
+Runways:LFMT 12R-30L:extended centerline 1 right vectoring
+Runways:LFMT 12R-30L:extended centerline 2
+Runways:LFMT 12R-30L:extended centerline 2 left base
+Runways:LFMT 12R-30L:extended centerline 2 left ticks
+Runways:LFMT 12R-30L:extended centerline 2 left vectoring
+Runways:LFMT 12R-30L:extended centerline 2 right base
+Runways:LFMT 12R-30L:extended centerline 2 right ticks
+Runways:LFMT 12R-30L:extended centerline 2 right vectoring
+Runways:LFMT 12R-30L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:15000
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:322.00000
+TAGFAMILY:Peter Custom radar - Upper
+WINDOWAREA:43.445502:3.559367:43.766401:4.472624
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFMT
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:2
+PLUGIN:vSMR:SRW1BottomRightX:1919
+PLUGIN:vSMR:SRW1BottomRightY:178
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:-115
+PLUGIN:vSMR:SRW1OffsetY:-20
+PLUGIN:vSMR:SRW1Rotation:325
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1609
+PLUGIN:vSMR:SRW1TopLeftY:64
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
