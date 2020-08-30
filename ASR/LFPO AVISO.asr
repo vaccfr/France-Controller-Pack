@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200822221026-200901-0013.sct
-SECTORTITLE:LFXX-XXBeta_20200822221026-200901-0013.sct
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200823114919-200901-0016.sct
+SECTORTITLE:LFXX-XXBeta_20200823114919-200901-0016.sct
 Free Text:LFPO Gates\A01:freetext
 Free Text:LFPO Gates\A02:freetext
 Free Text:LFPO Gates\A02:freetext
@@ -262,7 +262,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:48.710811:2.313818:48.746816:2.417292
+WINDOWAREA:48.720128:2.345017:48.734875:2.387400
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:LFPO

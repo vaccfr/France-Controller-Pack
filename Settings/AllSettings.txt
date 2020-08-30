@@ -37,13 +37,13 @@ m_VFRSquawks:7000,1000
 m_WhoIsOnlineURL:http://vatsim.metacraft.com/vatsim-data.txt
 m_AutoLoadMetarForActiveAirports:1
 m_LockShowRouteWhenAccepting:0
-m_VoiceAtisBuilderUrl:https://new.vatfrance.org/api/atis/$atiscode/$deprwy($atisairport)/$arrrwy($atisairport)/ILS/1Y,1W/?m=$metar($atisairport)&ta=7000
+m_VoiceAtisBuilderUrl:https://new.vatfrance.org/api/atis/$atiscode/$deprwy($atisairport)/$arrrwy($atisairport)/ILS/9P/?m=$metar($atisairport)&ta=7000
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
 SET_TransparentAcListBackground:0
 m_PutIncomingCoordinationToFirst:0
 m_AutoProxyMode:1
-m_TransparentAcListSelectedBackground:1
+m_TransparentAcListSelectedBackground:0
 m_TransparentDetailedTagBackground:0
 m_TransparentDetailedTagSelectedItemBackground:0
 m_AllowDirectBeyondCOPX:0
@@ -66,7 +66,7 @@ m_HiliteASELAircraft:0
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
 m_SModeTransponders:HLEGWQS
-m_CorrelationMode:0
+m_CorrelationMode:2
 m_CorrelationDistance:30
 m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
@@ -225,7 +225,7 @@ Datablock:user 4:16777215:3.5:0:0:7
 Datablock:user 5:16777215:3.5:0:0:7
 Datablock:user 6:1552127:4.0:0:0:7
 Datablock:emergency:3289855:4.0:0:0:7
-Datablock:ongoing requested by me:12615935:3.5:0:0:7
+Datablock:ongoing requested by me:12615935:4.0:0:0:7
 Datablock:ongoing requested by other:8454016:4.0:0:0:7
 Datablock:ongoing accepted:65535:4.0:0:0:7
 Datablock:ongoing refused:65535:4.0:0:0:7
@@ -234,7 +234,7 @@ Datablock:active item background:3223857:4.0:0:0:7
 Datablock:arrival background:1395241:4.0:0:0:7
 Datablock:departure background:4264977:4.0:0:0:7
 Datablock:AC list background:1447446:3.5:0:0:7
-Datablock:AC list selected background:4411406:3.5:0:0:7
+Datablock:AC list selected background:3158064:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
@@ -247,7 +247,7 @@ Metar:normal:16776960:3.5:0:0:7
 Metar:modified:13408767:3.5:0:0:7
 Metar:timeout:16777215:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
-Other:distance line:8421504:3.5:0:0:7
+Other:distance line:8421504:3.5:2:0:7
 Other:distance values:65535:4.0:0:0:7
 Other:distance annotation:65535:3.5:0:0:7
 Other:separation leader:16777215:3.5:0:1:7
@@ -1000,8 +1000,8 @@ TAGITEM:16::0:1:0:0::0:1:::1
 END
 SIL
 m_Visible:1
-m_X:0
-m_Y:63
+m_X:7
+m_Y:57
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:5
@@ -1024,12 +1024,12 @@ m_Column:SI:5:1:64:20:0:1::::1:0.0
 END
 SEL
 m_Visible:1
-m_X:0
-m_Y:95
+m_X:7
+m_Y:232
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:14
-m_HeaderOnly:1
+m_HeaderOnly:0
 m_Column:C/S:10:0:9:8:0:1::::3:0.0
 m_Column:ATYP:6:1:16:0:0:1::::1:0.0
 m_Column:ASSR:5:1:60:870:31:1::Mode S PlugIn::1:0.0
@@ -1048,12 +1048,12 @@ m_Column:SI:5:1:64:20:0:1::::1:0.0
 END
 DEP
 m_Visible:1
-m_X:0
-m_Y:108
+m_X:7
+m_Y:264
 m_LineNumber:20
 m_Resizable:1
-m_OrderingColumn:2
-m_HeaderOnly:1
+m_OrderingColumn:4
+m_HeaderOnly:0
 m_Column:EOBT:5:1:97:0:0:1::::1:0.0
 m_Column:C/S:9:1:9:0:0:1::::0:0.0
 m_Column:COM:3:0:11:32:0:1::::1:0.0

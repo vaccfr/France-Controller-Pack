@@ -1,0 +1,94 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200823114919-200901-0016.sct
+SECTORTITLE:LFXX-XXBeta_20200823114919-200901-0016.sct
+Free Text:LFPB Gates\1:freetext
+Free Text:LFPB Gates\10:freetext
+Free Text:LFPB Gates\11:freetext
+Free Text:LFPB Gates\12:freetext
+Free Text:LFPB Gates\13:freetext
+Free Text:LFPB Gates\14:freetext
+Free Text:LFPB Gates\2:freetext
+Free Text:LFPB Gates\2:freetext
+Free Text:LFPB Gates\3:freetext
+Free Text:LFPB Gates\3:freetext
+Free Text:LFPB Gates\4:freetext
+Free Text:LFPB Gates\5:freetext
+Free Text:LFPB Gates\6:freetext
+Free Text:LFPB Gates\7:freetext
+Free Text:LFPB Gates\8:freetext
+Free Text:LFPB Gates\9:freetext
+Free Text:LFPB Taxiways\10D:freetext
+Free Text:LFPB Taxiways\10D:freetext
+Free Text:LFPB Taxiways\10D:freetext
+Free Text:LFPB Taxiways\A:freetext
+Free Text:LFPB Taxiways\A:freetext
+Free Text:LFPB Taxiways\A:freetext
+Free Text:LFPB Taxiways\A:freetext
+Free Text:LFPB Taxiways\A:freetext
+Free Text:LFPB Taxiways\A1:freetext
+Free Text:LFPB Taxiways\A1:freetext
+Free Text:LFPB Taxiways\B:freetext
+Free Text:LFPB Taxiways\B:freetext
+Free Text:LFPB Taxiways\B:freetext
+Free Text:LFPB Taxiways\B:freetext
+Free Text:LFPB Taxiways\B:freetext
+Free Text:LFPB Taxiways\B:freetext
+Free Text:LFPB Taxiways\B1:freetext
+Free Text:LFPB Taxiways\B1:freetext
+Free Text:LFPB Taxiways\C:freetext
+Free Text:LFPB Taxiways\C:freetext
+Free Text:LFPB Taxiways\C1:freetext
+Free Text:LFPB Taxiways\C11:freetext
+Free Text:LFPB Taxiways\C11:freetext
+Free Text:LFPB Taxiways\C2:freetext
+Free Text:LFPB Taxiways\C22:freetext
+Free Text:LFPB Taxiways\C3:freetext
+Free Text:LFPB Taxiways\C4:freetext
+Free Text:LFPB Taxiways\R:freetext
+Free Text:LFPB Taxiways\R:freetext
+Free Text:LFPB Taxiways\R:freetext
+Free Text:LFPB Taxiways\R1:freetext
+Free Text:LFPB Taxiways\U1:freetext
+Free Text:LFPB Taxiways\U1:freetext
+Free Text:LFPB Taxiways\U2:freetext
+Free Text:LFPB Taxiways\U3:freetext
+Free Text:LFPB Taxiways\V1:freetext
+Free Text:LFPB Taxiways\V1:freetext
+Free Text:LFPB Taxiways\V2:freetext
+Free Text:LFPB Taxiways\V2:freetext
+Free Text:LFPB Taxiways\V3:freetext
+Free Text:LFPB Taxiways\V3:freetext
+Free Text:LFPB Taxiways\V4:freetext
+Free Text:LFPB Taxiways\V4:freetext
+Free Text:LFPB Taxiways\W1:freetext
+Free Text:LFPB Taxiways\W1:freetext
+Free Text:LFPB Taxiways\W1:freetext
+Free Text:LFPB Taxiways\W2:freetext
+Free Text:LFPB Taxiways\W2:freetext
+Free Text:LFPB Taxiways\W2:freetext
+Free Text:LFPB Taxiways\W2:freetext
+Free Text:LFPB Taxiways\W3:freetext
+Free Text:LFPB Taxiways\W4:freetext
+Free Text:LFPB Taxiways\W4:freetext
+Free Text:LFPB Taxiways\W4:freetext
+Free Text:LFPB Taxiways\W4:freetext
+Free Text:LFPB Taxiways\W5:freetext
+Free Text:LFPB Taxiways\W5:freetext
+Geo:LFPB Groundlayout Le Bourget:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:48.945195:2.391187:48.981200:2.494660
+PLUGIN:vSMR:Airport:LFPB

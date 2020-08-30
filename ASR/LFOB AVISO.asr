@@ -1,0 +1,80 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200823114919-200901-0016.sct
+SECTORTITLE:LFXX-XXBeta_20200823114919-200901-0016.sct
+Free Text:LFOB Gates\1:freetext
+Free Text:LFOB Gates\10:freetext
+Free Text:LFOB Gates\11:freetext
+Free Text:LFOB Gates\12:freetext
+Free Text:LFOB Gates\2:freetext
+Free Text:LFOB Gates\3:freetext
+Free Text:LFOB Gates\4:freetext
+Free Text:LFOB Gates\5:freetext
+Free Text:LFOB Gates\6:freetext
+Free Text:LFOB Gates\7:freetext
+Free Text:LFOB Gates\8:freetext
+Free Text:LFOB Gates\9:freetext
+Free Text:LFOB Gates\AVGAS:freetext
+Free Text:LFOB Gates\Hangar:freetext
+Free Text:LFOB Gates\Hangars ACB:freetext
+Free Text:LFOB Gates\L1:freetext
+Free Text:LFOB Gates\L2:freetext
+Free Text:LFOB Gates\L3:freetext
+Free Text:LFOB Gates\L4:freetext
+Free Text:LFOB Gates\L5:freetext
+Free Text:LFOB Gates\P-Aviation Legere:freetext
+Free Text:LFOB Gates\P-IGN:freetext
+Free Text:LFOB Gates\P-Principal:freetext
+Free Text:LFOB Gates\Parking Nord:freetext
+Free Text:LFOB Gates\RFFS:freetext
+Free Text:LFOB Gates\Terminal 1:freetext
+Free Text:LFOB Gates\Terminal 2:freetext
+Free Text:LFOB Gates\TWR:freetext
+Free Text:LFOB Gates\TWR:freetext
+Free Text:LFOB Taxiways\A:freetext
+Free Text:LFOB Taxiways\H:freetext
+Free Text:LFOB Taxiways\N:freetext
+Free Text:LFOB Taxiways\N1:freetext
+Free Text:LFOB Taxiways\N2:freetext
+Free Text:LFOB Taxiways\P:freetext
+Free Text:LFOB Taxiways\R:freetext
+Free Text:LFOB Taxiways\R1:freetext
+Free Text:LFOB Taxiways\R2:freetext
+Free Text:LFOB Taxiways\S:freetext
+Free Text:LFOB Taxiways\T:freetext
+Free Text:LFOB Taxiways\W:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Free Text:LFOB Taxiways\X:freetext
+Geo:LFOB Groundlayout Beauvais Tille:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.446355:2.093944:49.464789:2.146923
+PLUGIN:vSMR:Airport:LFOB

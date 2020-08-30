@@ -20,7 +20,6 @@
             "enable": true,
             "accept_pilot_squawk": true,
             "do_not_autocorrelate_squawks": [
-                "1000",
                 "2000",
                 "2200",
                 "1200",

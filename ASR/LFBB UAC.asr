@@ -1,0 +1,427 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200823114919-200901-0016.sct
+SECTORTITLE:LFXX-XXBeta_20200823114919-200901-0016.sct
+ARTCC high boundary:AoR CTR LFFF Release Lines:
+Free Text:ZONE P36 FESSENHEIM\4000:freetext
+Geo:LFEE Prohibited area Fessenheiim P 36:
+High airways:UL10:line
+High airways:UL15:line
+High airways:UL47:line
+High airways:UL612:line
+High airways:UL613:line
+High airways:UM129:line
+High airways:UM163:line
+High airways:UM605:line
+High airways:UM624:line
+High airways:UM728:line
+High airways:UM733:line
+High airways:UN852:line
+High airways:UN853:line
+High airways:UN856:line
+High airways:UN857:line
+High airways:UN858:line
+High airways:UN859:line
+High airways:UN872:line
+High airways:UN873:line
+High airways:UN874:line
+High airways:UQ220:line
+High airways:UT27:line
+High airways:UT421:line
+High airways:UZ173:line
+High airways:UZ24:line
+High airways:UZ296:line
+High airways:UZ343:line
+Regions:LFFF EG-D040:polygon
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14L-32R:extended centerline 1
+Runways:LFBO 14L-32R:extended centerline 1 left base
+Runways:LFBO 14L-32R:extended centerline 1 left ticks
+Runways:LFBO 14L-32R:extended centerline 1 left vectoring
+Runways:LFBO 14L-32R:extended centerline 1 right base
+Runways:LFBO 14L-32R:extended centerline 1 right ticks
+Runways:LFBO 14L-32R:extended centerline 1 right vectoring
+Runways:LFBO 14L-32R:extended centerline 2
+Runways:LFBO 14L-32R:extended centerline 2 left base
+Runways:LFBO 14L-32R:extended centerline 2 left ticks
+Runways:LFBO 14L-32R:extended centerline 2 left vectoring
+Runways:LFBO 14L-32R:extended centerline 2 right base
+Runways:LFBO 14L-32R:extended centerline 2 right ticks
+Runways:LFBO 14L-32R:extended centerline 2 right vectoring
+Runways:LFBO 14R-32L:centerline
+Runways:LFBO 14R-32L:extended centerline 1
+Runways:LFBO 14R-32L:extended centerline 1 left base
+Runways:LFBO 14R-32L:extended centerline 1 left ticks
+Runways:LFBO 14R-32L:extended centerline 1 left vectoring
+Runways:LFBO 14R-32L:extended centerline 1 right base
+Runways:LFBO 14R-32L:extended centerline 1 right ticks
+Runways:LFBO 14R-32L:extended centerline 1 right vectoring
+Runways:LFBO 14R-32L:extended centerline 2
+Runways:LFBO 14R-32L:extended centerline 2 left base
+Runways:LFBO 14R-32L:extended centerline 2 left ticks
+Runways:LFBO 14R-32L:extended centerline 2 left vectoring
+Runways:LFBO 14R-32L:extended centerline 2 right base
+Runways:LFBO 14R-32L:extended centerline 2 right ticks
+Runways:LFBO 14R-32L:extended centerline 2 right vectoring
+Runways:LFSB 08-26:centerline
+Runways:LFSB 08-26:extended centerline 1
+Runways:LFSB 08-26:extended centerline 1 left base
+Runways:LFSB 08-26:extended centerline 1 left ticks
+Runways:LFSB 08-26:extended centerline 1 left vectoring
+Runways:LFSB 08-26:extended centerline 1 right base
+Runways:LFSB 08-26:extended centerline 1 right ticks
+Runways:LFSB 08-26:extended centerline 1 right vectoring
+Runways:LFSB 08-26:extended centerline 2
+Runways:LFSB 08-26:extended centerline 2 left base
+Runways:LFSB 08-26:extended centerline 2 left ticks
+Runways:LFSB 08-26:extended centerline 2 left vectoring
+Runways:LFSB 08-26:extended centerline 2 right base
+Runways:LFSB 08-26:extended centerline 2 right ticks
+Runways:LFSB 08-26:extended centerline 2 right vectoring
+Runways:LFSB 15-33:centerline
+Runways:LFSB 15-33:extended centerline 1
+Runways:LFSB 15-33:extended centerline 1 left base
+Runways:LFSB 15-33:extended centerline 1 left ticks
+Runways:LFSB 15-33:extended centerline 1 left vectoring
+Runways:LFSB 15-33:extended centerline 1 right base
+Runways:LFSB 15-33:extended centerline 1 right ticks
+Runways:LFSB 15-33:extended centerline 1 right vectoring
+Runways:LFSB 15-33:extended centerline 2
+Runways:LFSB 15-33:extended centerline 2 left base
+Runways:LFSB 15-33:extended centerline 2 left ticks
+Runways:LFSB 15-33:extended centerline 2 left vectoring
+Runways:LFSB 15-33:extended centerline 2 right base
+Runways:LFSB 15-33:extended centerline 2 right ticks
+Runways:LFSB 15-33:extended centerline 2 right vectoring
+Runways:LFST 05-23:centerline
+Runways:LFST 05-23:extended centerline 1
+Runways:LFST 05-23:extended centerline 1 left base
+Runways:LFST 05-23:extended centerline 1 left ticks
+Runways:LFST 05-23:extended centerline 1 left vectoring
+Runways:LFST 05-23:extended centerline 1 right base
+Runways:LFST 05-23:extended centerline 1 right ticks
+Runways:LFST 05-23:extended centerline 1 right vectoring
+Runways:LFST 05-23:extended centerline 2
+Runways:LFST 05-23:extended centerline 2 left base
+Runways:LFST 05-23:extended centerline 2 left ticks
+Runways:LFST 05-23:extended centerline 2 left vectoring
+Runways:LFST 05-23:extended centerline 2 right base
+Runways:LFST 05-23:extended centerline 2 right ticks
+Runways:LFST 05-23:extended centerline 2 right vectoring
+VORs:ABB:symbol
+VORs:AEA:symbol
+VORs:AFI:symbol
+VORs:AGN:symbol
+VORs:AHO:symbol
+VORs:AJO:symbol
+VORs:ALB:symbol
+VORs:ALD:symbol
+VORs:ALG:symbol
+VORs:AMB:symbol
+VORs:ANG:symbol
+VORs:ARE:symbol
+VORs:AVD:symbol
+VORs:AVN:symbol
+VORs:AZR:symbol
+VORs:BAN:symbol
+VORs:BBE:symbol
+VORs:BBI:symbol
+VORs:BCN:symbol
+VORs:BCY:symbol
+VORs:BEG:symbol
+VORs:BFS:symbol
+VORs:BGR:symbol
+VORs:BHD:symbol
+VORs:BLA:symbol
+VORs:BLM:symbol
+VORs:BLV:symbol
+VORs:BMC:symbol
+VORs:BNE:symbol
+VORs:BRA:symbol
+VORs:BRY:symbol
+VORs:BSA:symbol
+VORs:BSN:symbol
+VORs:BST:symbol
+VORs:BT:symbol
+VORs:BTA:symbol
+VORs:BTZ:symbol
+VORs:BUB:symbol
+VORs:BUE:symbol
+VORs:BUR:symbol
+VORs:BVS:symbol
+VORs:CAA:symbol
+VORs:CAD:symbol
+VORs:CAG:symbol
+VORs:CAM:symbol
+VORs:CAN:symbol
+VORs:CAR:symbol
+VORs:CAS:symbol
+VORs:CAV:symbol
+VORs:CBP:symbol
+VORs:CBY:symbol
+VORs:CCS:symbol
+VORs:CDP:symbol
+VORs:CFA:symbol
+VORs:CGC:symbol
+VORs:CGN:symbol
+VORs:CGS:symbol
+VORs:CHA:symbol
+VORs:CHN:symbol
+VORs:CHW:symbol
+VORs:CIV:symbol
+VORs:CJN:symbol
+VORs:CLE:symbol
+VORs:CLM:symbol
+VORs:CLS:symbol
+VORs:CMA:symbol
+VORs:CMB:symbol
+VORs:CNA:symbol
+VORs:CNM:symbol
+VORs:CNR:symbol
+VORs:COL:symbol
+VORs:CRL:symbol
+VORs:CSL:symbol
+VORs:CTL:symbol
+VORs:CTN:symbol
+VORs:CVA:symbol
+VORs:DAR:symbol
+VORs:DEC:symbol
+VORs:DGN:symbol
+VORs:DGO:symbol
+VORs:DIK:symbol
+VORs:DIN:symbol
+VORs:DJL:symbol
+VORs:DKB:symbol
+VORs:DMR:symbol
+VORs:DMT:symbol
+VORs:DMU:symbol
+VORs:DPE:symbol
+VORs:DVL:symbol
+VORs:ELB:symbol
+VORs:EON:symbol
+VORs:EPL:symbol
+VORs:EPR:symbol
+VORs:EVX:symbol
+VORs:FFM:symbol
+VORs:FGI:symbol
+VORs:FHD:symbol
+VORs:FHH:symbol
+VORs:FJR:symbol
+VORs:FLO:symbol
+VORs:FRD:symbol
+VORs:FRI:symbol
+VORs:FTM:symbol
+VORs:FUL:symbol
+VORs:GAI:symbol
+VORs:GED:symbol
+VORs:GEN:symbol
+VORs:GHE:symbol
+VORs:GIR:symbol
+VORs:GIX:symbol
+VORs:GRE:symbol
+VORs:GSY:symbol
+VORs:GTQ:symbol
+VORs:GUR:symbol
+VORs:GVA:symbol
+VORs:GWC:symbol
+VORs:HDM:symbol
+VORs:HIG:symbol
+VORs:HIJ:symbol
+VORs:HND:symbol
+VORs:HOC:symbol
+VORs:HUE:symbol
+VORs:HUL:symbol
+VORs:HYE:symbol
+VORs:IBA:symbol
+VORs:ITR:symbol
+VORs:ITS:symbol
+VORs:JOA:symbol
+VORs:JSY:symbol
+VORs:KBD:symbol
+VORs:KBO:symbol
+VORs:KLO:symbol
+VORs:KOK:symbol
+VORs:KPT:symbol
+VORs:KRH:symbol
+VORs:KTG:symbol
+VORs:LAP:symbol
+VORs:LBU:symbol
+VORs:LCA:symbol
+VORs:LDV:symbol
+VORs:LEQ:symbol
+VORs:LGE:symbol
+VORs:LGH:symbol
+VORs:LGL:symbol
+VORs:LIN:symbol
+VORs:LLE:symbol
+VORs:LMB:symbol
+VORs:LMG:symbol
+VORs:LND:symbol
+VORs:LNO:symbol
+VORs:LOR:symbol
+VORs:LPA:symbol
+VORs:LPH:symbol
+VORs:LQN:symbol
+VORs:LRA:symbol
+VORs:LRD:symbol
+VORs:LSE:symbol
+VORs:LTP:symbol
+VORs:LUC:symbol
+VORs:LUL:symbol
+VORs:LUX:symbol
+VORs:LXI:symbol
+VORs:LYD:symbol
+VORs:MAS:symbol
+VORs:MAY:symbol
+VORs:MDM:symbol
+VORs:MEN:symbol
+VORs:MHN:symbol
+VORs:MID:symbol
+VORs:MJV:symbol
+VORs:MLA:symbol
+VORs:MLN:symbol
+VORs:MMD:symbol
+VORs:MMP:symbol
+VORs:MND:symbol
+VORs:MOJ:symbol
+VORs:MOU:symbol
+VORs:MRM:symbol
+VORs:MTD:symbol
+VORs:MTG:symbol
+VORs:MTL:symbol
+VORs:MTR:symbol
+VORs:NAY:symbol
+VORs:NDD:symbol
+VORs:NEA:symbol
+VORs:NEV:symbol
+VORs:NG:symbol
+VORs:NIZ:symbol
+VORs:NOV:symbol
+VORs:NSA:symbol
+VORs:NTM:symbol
+VORs:NTS:symbol
+VORs:NUB:symbol
+VORs:NVO:symbol
+VORs:NVS:symbol
+VORs:ORF:symbol
+VORs:ORG:symbol
+VORs:OVR:symbol
+VORs:PAP:symbol
+VORs:PAS:symbol
+VORs:PDT:symbol
+VORs:PED:symbol
+VORs:PGS:symbol
+VORs:PIA:symbol
+VORs:PIN:symbol
+VORs:PIS:symbol
+VORs:POI:symbol
+VORs:PON:symbol
+VORs:POS:symbol
+VORs:POY:symbol
+VORs:PPG:symbol
+VORs:PPN:symbol
+VORs:PRA:symbol
+VORs:PRT:symbol
+VORs:PTV:symbol
+VORs:QPR:symbol
+VORs:RBO:symbol
+VORs:RBT:symbol
+VORs:REM:symbol
+VORs:REN:symbol
+VORs:RES:symbol
+VORs:RID:symbol
+VORs:RLP:symbol
+VORs:RMS:symbol
+VORs:ROA:symbol
+VORs:ROU:symbol
+VORs:SAD:symbol
+VORs:SAL:symbol
+VORs:SAM:symbol
+VORs:SAU:symbol
+VORs:SAV:symbol
+VORs:SCS:symbol
+VORs:SDI:symbol
+VORs:SES:symbol
+VORs:SFD:symbol
+VORs:SGD:symbol
+VORs:SHD:symbol
+VORs:SIE:symbol
+VORs:SIO:symbol
+VORs:SLD:symbol
+VORs:SLL:symbol
+VORs:SME:symbol
+VORs:SNR:symbol
+VORs:SPA:symbol
+VORs:SPI:symbol
+VORs:SPR:symbol
+VORs:SRH:symbol
+VORs:SRN:symbol
+VORs:SSJ:symbol
+VORs:SSN:symbol
+VORs:SSY:symbol
+VORs:STG:symbol
+VORs:STP:symbol
+VORs:STR:symbol
+VORs:SUL:symbol
+VORs:SZA:symbol
+VORs:TAB:symbol
+VORs:TAU:symbol
+VORs:TBC:symbol
+VORs:TBO:symbol
+VORs:TBR:symbol
+VORs:TGO:symbol
+VORs:TIS:symbol
+VORs:TJZ:symbol
+VORs:TLD:symbol
+VORs:TOP:symbol
+VORs:TOU:symbol
+VORs:TRA:symbol
+VORs:TRO:symbol
+VORs:TSC:symbol
+VORs:TSU:symbol
+VORs:TUR:symbol
+VORs:TZO:symbol
+VORs:VAB:symbol
+VORs:VBZ:symbol
+VORs:VES:symbol
+VORs:VFD:symbol
+VORs:VFM:symbol
+VORs:VGE:symbol
+VORs:VGO:symbol
+VORs:VIS:symbol
+VORs:VLA:symbol
+VORs:VLC:symbol
+VORs:VLN:symbol
+VORs:VNE:symbol
+VORs:VOG:symbol
+VORs:VRA:symbol
+VORs:VTB:symbol
+VORs:VTZ:symbol
+VORs:WFJ:symbol
+VORs:WIB:symbol
+VORs:WIL:symbol
+VORs:WNN:symbol
+VORs:WUR:symbol
+VORs:WYP:symbol
+VORs:YVL:symbol
+VORs:ZAR:symbol
+VORs:ZMR:symbol
+VORs:ZR:symbol
+VORs:ZUE:symbol
+VORs:ZWN:symbol
+VORs:ZZA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:3000
+ABOVE:0
+LEADER:-9
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:42.824651:-6.683720:48.430725:9.427508
