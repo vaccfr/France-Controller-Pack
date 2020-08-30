@@ -1,0 +1,259 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200830125421-200901-0017.sct
+SECTORTITLE:LFXX-XXBeta_20200830125421-200901-0017.sct
+ARTCC high boundary:AoR CTR LFFF Release Lines:
+ARTCC high boundary:FIR border LFBB LFBB-H_UIR:
+ARTCC high boundary:FIR border LFBB LFBB-L_UIR:
+ARTCC high boundary:FIR border LFBB LFBB-L_UIR1:
+ARTCC high boundary:FIR border LFEE LFEE FIR:
+ARTCC high boundary:FIR border LFMM LFMM FIR:
+ARTCC high boundary:FIR border LFMM LFMM-H_UIR:
+ARTCC high boundary:FIR border LFRR LFRR-H_UIR:
+Fixes:ABNUR:symbol
+Fixes:ABRIX:symbol
+Fixes:ADABI:symbol
+Fixes:ADUTO:symbol
+Fixes:AKIKI:symbol
+Fixes:AKITO:symbol
+Fixes:ALESO:symbol
+Fixes:ANETO:symbol
+Fixes:ANGLO:symbol
+Fixes:ANNET:symbol
+Fixes:ARVID:symbol
+Fixes:ARVOL:symbol
+Fixes:ATLEN:symbol
+Fixes:BAKUP:symbol
+Fixes:BALAN:symbol
+Fixes:BALDA:symbol
+Fixes:BAMES:symbol
+Fixes:BEGAR:symbol
+Fixes:BEGUY:symbol
+Fixes:BELEN:symbol
+Fixes:BELOB:symbol
+Fixes:BOKNO:symbol
+Fixes:BOLRO:symbol
+Fixes:BUNAV:symbol
+Fixes:CAMBO:symbol
+Fixes:DELOG:symbol
+Fixes:DELOM:symbol
+Fixes:DIKRO:symbol
+Fixes:ERAKI:symbol
+Fixes:ETIKI:symbol
+Fixes:GARMI:symbol
+Fixes:GEANT:symbol
+Fixes:GIROM:symbol
+Fixes:GIVOR:symbol
+Fixes:IBERA:symbol
+Fixes:KANIG:symbol
+Fixes:KESAX:symbol
+Fixes:KORUL:symbol
+Fixes:KOTEM:symbol
+Fixes:KUDIN:symbol
+Fixes:KUKOR:symbol
+Fixes:KUNAV:symbol
+Fixes:LAPEX:symbol
+Fixes:LATEK:symbol
+Fixes:LELNA:symbol
+Fixes:LIPNI:symbol
+Fixes:LIZAD:symbol
+Fixes:LOTEE:symbol
+Fixes:LUGIS:symbol
+Fixes:LUPEN:symbol
+Fixes:LUSAR:symbol
+Fixes:LUSEM:symbol
+Fixes:LUTAX:symbol
+Fixes:MANEG:symbol
+Fixes:MEDIL:symbol
+Fixes:MOKIP:symbol
+Fixes:MOPIL:symbol
+Fixes:MOSIS:symbol
+Fixes:MOTOX:symbol
+Fixes:NANCY:symbol
+Fixes:NATPI:symbol
+Fixes:NENEM:symbol
+Fixes:NETUK:symbol
+Fixes:NEVIL:symbol
+Fixes:NILEM:symbol
+Fixes:ODREP:symbol
+Fixes:OGAGI:symbol
+Fixes:OLOXO:symbol
+Fixes:ORIST:symbol
+Fixes:PERDU:symbol
+Fixes:PIBAT:symbol
+Fixes:PIKOD:symbol
+Fixes:PIPOR:symbol
+Fixes:PODEM:symbol
+Fixes:POPUL:symbol
+Fixes:PUMAL:symbol
+Fixes:REGHI:symbol
+Fixes:REMGO:symbol
+Fixes:RESMI:symbol
+Fixes:RIVAK:symbol
+Fixes:ROBAL:symbol
+Fixes:ROUSY:symbol
+Fixes:RUTIP:symbol
+Fixes:SALCO:symbol
+Fixes:SEPAL:symbol
+Fixes:SITET:symbol
+Fixes:SIVIR:symbol
+Fixes:SOPIL:symbol
+Fixes:SOSUN:symbol
+Fixes:SOVAT:symbol
+Fixes:SUBIP:symbol
+Fixes:TIVLI:symbol
+Fixes:TIVLU:symbol
+Fixes:TOLVU:symbol
+Fixes:TOPTU:symbol
+Fixes:TUDRA:symbol
+Fixes:TULTA:symbol
+Fixes:UMLER:symbol
+Fixes:UMOXA:symbol
+Fixes:URUNA:symbol
+Fixes:VEKIN:symbol
+Fixes:VESAN:symbol
+Fixes:XAMAB:symbol
+Fixes:XAVAP:symbol
+Fixes:XIDIL:symbol
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontière:
+Geo:LFFF Landmark Coastlines:
+Geo:LFFF Landmark Frontière:
+Geo:LFMM Landmark Coastlines:
+Geo:LFMM Landmark Frontières:
+Geo:LFRR Landmark Coastlines:
+High airways:T9:line
+High airways:UL10:line
+High airways:UL127:line
+High airways:UL128:line
+High airways:UL15:line
+High airways:UL167:line
+High airways:UL47:line
+High airways:UL55:line
+High airways:UL612:line
+High airways:UL613:line
+High airways:UL722:line
+High airways:UL873:line
+High airways:UM129:line
+High airways:UM163:line
+High airways:UM164:line
+High airways:UM184:line
+High airways:UM189:line
+High airways:UM2:line
+High airways:UM25:line
+High airways:UM30:line
+High airways:UM601:line
+High airways:UM603:line
+High airways:UM605:line
+High airways:UM616:line
+High airways:UM624:line
+High airways:UM728:line
+High airways:UM731:line
+High airways:UM733:line
+High airways:UM871:line
+High airways:UM976:line
+High airways:UM985:line
+High airways:UN26:line
+High airways:UN460:line
+High airways:UN470:line
+High airways:UN480:line
+High airways:UN482:line
+High airways:UN490:line
+High airways:UN491:line
+High airways:UN502:line
+High airways:UN536:line
+High airways:UN734:line
+High airways:UN736:line
+High airways:UN741:line
+High airways:UN850:line
+High airways:UN851:line
+High airways:UN852:line
+High airways:UN853:line
+High airways:UN855:line
+High airways:UN856:line
+High airways:UN857:line
+High airways:UN858:line
+High airways:UN859:line
+High airways:UN860:line
+High airways:UN861:line
+High airways:UN862:line
+High airways:UN863:line
+High airways:UN864:line
+High airways:UN866:line
+High airways:UN867:line
+High airways:UN869:line
+High airways:UN871:line
+High airways:UN872:line
+High airways:UN873:line
+High airways:UN874:line
+High airways:UN90:line
+High airways:UP181:line
+High airways:UP620:line
+High airways:UQ220:line
+High airways:UT158:line
+High airways:UT18:line
+High airways:UT183:line
+High airways:UT24:line
+High airways:UT250:line
+High airways:UT27:line
+High airways:UT37:line
+High airways:UT421:line
+High airways:UT507:line
+High airways:UT7:line
+High airways:UY155:line
+High airways:UY22:line
+High airways:UY25:line
+High airways:UY30:line
+High airways:UY31:line
+High airways:UZ12:line
+High airways:UZ151:line
+High airways:UZ173:line
+High airways:UZ24:line
+High airways:UZ273:line
+High airways:UZ296:line
+High airways:UZ343:line
+High airways:UZ924:line
+Regions:LFFF EG-D040:polygon
+VORs:AGN:symbol
+VORs:AMB:symbol
+VORs:ANG:symbol
+VORs:ARE:symbol
+VORs:AVN:symbol
+VORs:BLM:symbol
+VORs:CAM:symbol
+VORs:CNA:symbol
+VORs:EVX:symbol
+VORs:FJR:name
+VORs:FJR:symbol
+VORs:GAI:symbol
+VORs:GTQ:symbol
+VORs:JSY:symbol
+VORs:LGL:symbol
+VORs:LMG:symbol
+VORs:LSE:symbol
+VORs:LTP:symbol
+VORs:MEN:symbol
+VORs:MOU:symbol
+VORs:MTL:symbol
+VORs:NTS:symbol
+VORs:PON:symbol
+VORs:QPR:symbol
+VORs:REN:symbol
+VORs:SAU:symbol
+VORs:STP:symbol
+VORs:TOU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-9
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:42.030005:-13.107211:52.979368:18.360032

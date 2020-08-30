@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200822221026-200901-0013.sct
-SECTORTITLE:LFXX-XXBeta_20200822221026-200901-0013.sct
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200830125421-200901-0017.sct
+SECTORTITLE:LFXX-XXBeta_20200830125421-200901-0017.sct
 Fixes:BANOX:name
 Fixes:BANOX:symbol
 Fixes:LORNI:name
@@ -406,6 +406,20 @@ Runways:LFQN 09-27:centerline
 Runways:LFQP 06-24:centerline
 Runways:LFQQ 01-19:centerline
 Runways:LFQQ 08-26:centerline
+Runways:LFQQ 08-26:extended centerline 1
+Runways:LFQQ 08-26:extended centerline 1 left base
+Runways:LFQQ 08-26:extended centerline 1 left ticks
+Runways:LFQQ 08-26:extended centerline 1 left vectoring
+Runways:LFQQ 08-26:extended centerline 1 right base
+Runways:LFQQ 08-26:extended centerline 1 right ticks
+Runways:LFQQ 08-26:extended centerline 1 right vectoring
+Runways:LFQQ 08-26:extended centerline 2
+Runways:LFQQ 08-26:extended centerline 2 left base
+Runways:LFQQ 08-26:extended centerline 2 left ticks
+Runways:LFQQ 08-26:extended centerline 2 left vectoring
+Runways:LFQQ 08-26:extended centerline 2 right base
+Runways:LFQQ 08-26:extended centerline 2 right ticks
+Runways:LFQQ 08-26:extended centerline 2 right vectoring
 Runways:LFQT 04-22:centerline
 Runways:LFQU 08-26:centerline
 Runways:LFQV 11-29:centerline
@@ -517,5 +531,5 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:CoFrance
-WINDOWAREA:48.481116:0.869216:49.547783:3.934697
+TAGFAMILY:CoFrance Approach
+WINDOWAREA:48.604716:1.323093:49.287382:3.285001
