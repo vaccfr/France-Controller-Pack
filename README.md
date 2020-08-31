@@ -1,25 +1,34 @@
-<p align="center" style="background: black;"><img src="https://cdn.discordapp.com/attachments/721714238619648101/740926322208931850/VATFrance_WIDE.png" width="auto" style="background: black;"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VATFrance/VATFrance-Graphics-Standards-Manual/master/VATFrance_WIDE_ALT.png" width="auto"></p>
 
 <p align="center">Repo officiel du controleur pack francais<br>
-<a href="https://new.vatfrance.org/fr" target="_blank">https://new.vatfrance.org/fr</a>
+<a href="https://www.vatfrance.org/fr" target="_blank">https://www.vatfrance.org/fr</a> <i>(Version française)</i><br>
+<a href="https://www.vatfrance.org/gb" target="_blank">https://www.vatfrance.org/gb</a> <i>(English version)</i>
 </p>
 
 ---
 
-**Warning:** this repository is under active development. We are not responsible for any issues that may arise from the use of any portion of the here-above code
+**Warning:** this controller pack is under testing.
 
 ### About
 
-TBD
+This is the repository for the official controller pack of the French vACC "VATFrance". This controller pack groups together up-to-date sector files, settings files, ground & radar view files, and plugins. The most up-to-date version can be downloaded directly from the **Euroscope GNG Download Manager**. Alternatively, you may find a manually downloadable version over on http://files.aero-gng.com/LFXX.
+
+### Dependencies
+
+*(No dependencies to be acknowledged)*
 
 
 ### Contributors, maintainers and acknowledgements
 
 A special thank you to the following people:
-- 
-- 
+- [@pierr3](https://github.com/pierr3), for his contribution & maintenance of this controller pack.
+- [Raphael G.](#), for his contribution & maintenance of this controller pack.
+- [@FrenchGap](https://github.com/FrenchGap), for this beautiful README
+
 
 ### License
+
+The VATFrance French Controller Pack is licensed under the **GNU GPL v3 License**. You are free to use code from the repository within the reigns of that license. 
 
 French Controller Pack
 Copyright (C) 2020  VATFrance
