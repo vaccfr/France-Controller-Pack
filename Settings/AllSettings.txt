@@ -37,7 +37,7 @@ m_VFRSquawks:7000,1000
 m_WhoIsOnlineURL:http://vatsim.metacraft.com/vatsim-data.txt
 m_AutoLoadMetarForActiveAirports:1
 m_LockShowRouteWhenAccepting:0
-m_VoiceAtisBuilderUrl:https://new.vatfrance.org/api/atis/$atiscode/$deprwy($atisairport)/$arrrwy($atisairport)/ILS/9P/?m=$metar($atisairport)&ta=7000
+m_VoiceAtisBuilderUrl:https://vatfrance.org/api/atis/$atiscode/$deprwy($atisairport)/$arrrwy($atisairport)/ILS/7S/?m=$metar($atisairport)&ta=7000
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
 SET_TransparentAcListBackground:0
@@ -66,7 +66,7 @@ m_HiliteASELAircraft:0
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
 m_SModeTransponders:HLEGWQS
-m_CorrelationMode:2
+m_CorrelationMode:0
 m_CorrelationDistance:30
 m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
@@ -280,7 +280,7 @@ Chat:name unread:16776960:3.5:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
-Sector:line:1776411:4.0:0:2:7
+Sector:line:2302755:4.0:0:2:7
 Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:3355443:3.5:0:0:7
 Sector:inactive sector background:4276545:3.5:0:0:7
@@ -1025,7 +1025,7 @@ END
 SEL
 m_Visible:1
 m_X:4
-m_Y:80
+m_Y:249
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:14
@@ -1049,7 +1049,7 @@ END
 DEP
 m_Visible:1
 m_X:4
-m_Y:112
+m_Y:281
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:4
