@@ -43,3 +43,22 @@ Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin2Display2	SMR radar display
 Plugins	Plugin3	\LFXX\Plugins\vSMR.dll
 Plugins	Plugin3Display0	SMR radar display
+Sounds	Sound0	\LFXX\Sounds\handoff_request.wav
+Sounds	Sound1	\LFXX\Sounds\handoff_accept.wav
+Sounds	Sound2	\LFXX\Sounds\conflict_alert.wav
+Sounds	Sound3	\LFXX\Sounds\radio_message.wav
+Sounds	Sound4	\LFXX\Sounds\private_message.wav
+Sounds	Sound5	\LFXX\Sounds\atc_message.wav
+Sounds	Sound6	\LFXX\Sounds\broadcast_message.wav
+Sounds	Sound7	\LFXX\Sounds\landline_request.wav
+Sounds	Sound8	\LFXX\Sounds\supervisor_message.wav
+Sounds	Sound9	\LFXX\Sounds\connected.wav
+Sounds	Sound10	\LFXX\Sounds\disconnected.wav
+Sounds	Sound11	\LFXX\Sounds\ongoing_request.wav
+Sounds	Sound12	\LFXX\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\LFXX\Sounds\ongoing_refused.wav
+Sounds	Sound14	\LFXX\Sounds\ongoing_manual.wav
+Sounds	Sound15	\LFXX\Sounds\new_atis.wav
+Sounds	Sound16	\LFXX\Sounds\handoff_refused.wav
+Sounds	Sound17	\LFXX\Sounds\pointout.wav
+Sounds	Sound18	\LFXX\Sounds\startup.wav
