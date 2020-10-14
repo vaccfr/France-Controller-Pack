@@ -1,8 +1,8 @@
-<p align="center"><img src="https://raw.githubusercontent.com/VATFrance/VATFrance-Graphics-Standards-Manual/master/VATFrance_WIDE_ALT.png" width="auto"></p>
+<p align="center"><img src="https://vatsim.fr/media/img/FrenchvACC_BBG_2.png" width="auto"></p>
 
-<p align="center">Repo officiel du controleur pack francais<br>
-<a href="https://www.vatfrance.org/fr" target="_blank">https://www.vatfrance.org/fr</a> <i>(Version française)</i><br>
-<a href="https://www.vatfrance.org/gb" target="_blank">https://www.vatfrance.org/gb</a> <i>(English version)</i>
+<p align="center"><b>v.1.5</b><br>Official repository of the new French vACC Website<br>
+<a href="https://www.vatsim.fr/fr" target="_blank">https://vatsim.fr/fr</a> <i>(Version française)</i><br>
+<a href="https://www.vatsim.fr/gb" target="_blank">https://vatsim.fr/gb</a> <i>(English version)</i>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 ### About
 
-This is the repository for the official controller pack of the French vACC "VATFrance". This controller pack groups together up-to-date sector files, settings files, ground & radar view files, and plugins. The most up-to-date version can be downloaded directly from the **Euroscope GNG Download Manager**. Alternatively, you may find a manually downloadable version over on http://files.aero-gng.com/LFXX.
+This is the repository for the official controller pack of the French vACC. This controller pack groups together up-to-date sector files, settings files, ground & radar view files, and plugins. The most up-to-date version can be downloaded directly from the **Euroscope GNG Download Manager**. Alternatively, you may find a manually downloadable version over on http://files.aero-gng.com/LFXX.
 
 ### Dependencies
 
@@ -22,16 +22,16 @@ This is the repository for the official controller pack of the French vACC "VATF
 
 A special thank you to the following people:
 - [@pierr3](https://github.com/pierr3), for his contribution & maintenance of this controller pack.
-- [Raphael G.](#), for his contribution & maintenance of this controller pack.
+- [Raphael G.](#), for his contribution to the GNG.
 - [@FrenchGap](https://github.com/FrenchGap), for this beautiful README
 
 
 ### License
 
-The VATFrance French Controller Pack is licensed under the **GNU GPL v3 License**. You are free to use code from the repository within the reigns of that license. 
+The French Controller Pack is licensed under the **GNU GPL v3 License**. You are free to use code from the repository within the reigns of that license. 
 
 French Controller Pack
-Copyright (C) 2020  VATFrance
+Copyright (C) 2020  French vACC
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -45,7 +45,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-This project is specifically built for the French vAcc which may deviate from the license as agreed with the author.
-
-All VATFrance materials do not fall under this license, and are (c) VATFrance 2020.
