@@ -17,6 +17,12 @@ Settings	SettingsfileSCREEN	\LFXX\Settings\AllSettings.txt
 Settings	SettingsfileCONFLICT	\LFXX\Settings\AllSettings.txt
 Settings	SettingsfileVCCS	\LFXX\Settings\AllSettings.txt
 Settings	SettingsfilePILOTING	\LFXX\Settings\AllSettings.txt
+Settings	alias	\LFXX\Alias\alias.txt
+Settings	airlines	\LFXX\ICAO\ICAO_Airlines.txt
+Settings	airports	\LFXX\ICAO\ICAO_Airports.txt
+Settings	aircraft	\LFXX\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\LFXX\NavData\icao.txt
+Settings	airways	\LFXX\NavData\airway.txt
 Settings	sector	\LFXX-LFXX_20201014184921-201101-0001.sct
 LastSession	facility	6
 LastSession	rating	4
@@ -26,17 +32,14 @@ LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0	\LFXX\Plugins\CoFrance.dll
+Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	\LFXX\Plugins\RDFPlugin.dll
 Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin2	\LFXX\Plugins\ModeS.dll
 Plugins	Plugin2Display0	ModeS Function Relay (no display)
 Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin2Display2	SMR radar display
 Plugins	Plugin3	\LFXX\Plugins\vSMR.dll
 Plugins	Plugin3Display0	SMR radar display
-Settings	airlines	\LFXX\ICAO\ICAO_Airlines.txt
-Settings	airports	\LFXX\ICAO\ICAO_Airports.txt
-Settings	aircraft	\LFXX\ICAO\ICAO_Aircraft.txt
-Settings	airportcoords	\LFXX\NavData\icao.txt
-Settings	airways	\LFXX\NavData\airway.txt
