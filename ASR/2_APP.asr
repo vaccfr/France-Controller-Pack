@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-CoFrance-Controller-Pack-[Beta]_20200831193951-200901-0003.sct
-SECTORTITLE:LFXX-CoFrance-Controller-Pack-[Beta]_20200831193951-200901-0003.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC boundary:FIZ LF SIV Geneva:
 ARTCC boundary:FIZ LFBD SIV Aquitaine 1:
 ARTCC boundary:FIZ LFBD SIV Aquitaine 2:
@@ -480,6 +480,8 @@ ARTCC low boundary:Tower CTR LFST CTR 2 Strasbourg Entzheim:
 ARTCC low boundary:Tower CTR LFSX CTR Luxeuil:
 ARTCC low boundary:Tower CTR LFTH Hyères le palyvestre:
 ARTCC low boundary:Tower CTR LFTW CTR Nimes Garons:
+Fixes:BISBO:name
+Fixes:BISBO:symbol
 Free Text:LFAD Points VFR\N:freetext
 Free Text:LFAD Points VFR\NA:freetext
 Free Text:LFAQ Points VFR\N:freetext
@@ -8105,7 +8107,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:CoFrance Approach
-WINDOWAREA:48.015977:-1.897187:51.138896:7.077733
+WINDOWAREA:48.622207:1.407383:49.440862:3.760105
 PLUGIN:CoFrance:APP:1
 PLUGIN:CoFrance:FILT:1
 PLUGIN:CoFrance:FILTABOVE:24000

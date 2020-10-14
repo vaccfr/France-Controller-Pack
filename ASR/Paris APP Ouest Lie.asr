@@ -1,8 +1,12 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200823114919-200901-0016.sct
-SECTORTITLE:LFXX-XXBeta_20200823114919-200901-0016.sct
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:TMA LFPG TMA Paris:
+ARTCC low boundary:Tower CTR LFPG Paris 1 Tower:
+ARTCC low boundary:Tower CTR LFPG Paris 2 Tower:
+ARTCC low boundary:Tower CTR LFPG Paris 3 Tower:
 Fixes:BANOX:name
 Fixes:BANOX:symbol
 Fixes:LORNI:name
@@ -379,7 +383,35 @@ Runways:LFPL 08R-26L:centerline
 Runways:LFPM 01-19:centerline
 Runways:LFPM 10-28:centerline
 Runways:LFPN 07L-25R:centerline
+Runways:LFPN 07L-25R:extended centerline 1
+Runways:LFPN 07L-25R:extended centerline 1 left base
+Runways:LFPN 07L-25R:extended centerline 1 left ticks
+Runways:LFPN 07L-25R:extended centerline 1 left vectoring
+Runways:LFPN 07L-25R:extended centerline 1 right base
+Runways:LFPN 07L-25R:extended centerline 1 right ticks
+Runways:LFPN 07L-25R:extended centerline 1 right vectoring
+Runways:LFPN 07L-25R:extended centerline 2
+Runways:LFPN 07L-25R:extended centerline 2 left base
+Runways:LFPN 07L-25R:extended centerline 2 left ticks
+Runways:LFPN 07L-25R:extended centerline 2 left vectoring
+Runways:LFPN 07L-25R:extended centerline 2 right base
+Runways:LFPN 07L-25R:extended centerline 2 right ticks
+Runways:LFPN 07L-25R:extended centerline 2 right vectoring
 Runways:LFPN 07R-25L:centerline
+Runways:LFPN 07R-25L:extended centerline 1
+Runways:LFPN 07R-25L:extended centerline 1 left base
+Runways:LFPN 07R-25L:extended centerline 1 left ticks
+Runways:LFPN 07R-25L:extended centerline 1 left vectoring
+Runways:LFPN 07R-25L:extended centerline 1 right base
+Runways:LFPN 07R-25L:extended centerline 1 right ticks
+Runways:LFPN 07R-25L:extended centerline 1 right vectoring
+Runways:LFPN 07R-25L:extended centerline 2
+Runways:LFPN 07R-25L:extended centerline 2 left base
+Runways:LFPN 07R-25L:extended centerline 2 left ticks
+Runways:LFPN 07R-25L:extended centerline 2 left vectoring
+Runways:LFPN 07R-25L:extended centerline 2 right base
+Runways:LFPN 07R-25L:extended centerline 2 right ticks
+Runways:LFPN 07R-25L:extended centerline 2 right vectoring
 Runways:LFPO 02-20:centerline
 Runways:LFPO 06-24:centerline
 Runways:LFPO 07-25:centerline
@@ -509,7 +541,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:100
 ABOVE:24000
-LEADER:5
+LEADER:-1
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
@@ -518,4 +550,11 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:CoFrance Approach
-WINDOWAREA:47.943823:-0.774148:50.246845:5.844478
+WINDOWAREA:48.296520:0.715571:49.770454:4.951494
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:1
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:1

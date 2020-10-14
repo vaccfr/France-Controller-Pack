@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-XXBeta_20200830125421-200901-0017.sct
-SECTORTITLE:LFXX-XXBeta_20200830125421-200901-0017.sct
+SECTORFILE:
+SECTORTITLE:
 Free Text:LFPO Gates\A01:freetext
 Free Text:LFPO Gates\A02:freetext
 Free Text:LFPO Gates\A02:freetext
