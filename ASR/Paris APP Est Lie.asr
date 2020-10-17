@@ -1,8 +1,13 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-LFXX_20201017172412-201101-0002.sct
+SECTORTITLE:LFXX-LFXX_20201017172412-201101-0002.sct
+ARTCC boundary:TMA LFPG TMA Paris:
+ARTCC low boundary:Tower CTR LFPG Paris 2 Tower:
+ARTCC low boundary:Tower CTR LFPG Paris 3 Tower:
+ARTCC low boundary:Tower CTR LFPT Pontoise Tower:
+ARTCC low boundary:Tower CTR LFPV Villacoublay Tower:
 Fixes:BANOX:name
 Fixes:BANOX:symbol
 Fixes:LORNI:name
@@ -34,13 +39,12 @@ Geo:LFPB Centerlines 07:
 Geo:LFPG Centerlines 08R:
 Geo:LFPG Centerlines 09L:
 Geo:LFPG Landmark Points VFR:
-Geo:LFPG Prohibited area Paris P23:
 Geo:LFPG Vectors INI Est:
 Geo:LFPO Centerlines 06:
-Geo:LFPO Vectors INI EST:
-Geo:LFPO Vectors VEBEK 2E:
-Regions:LFPG VPE EST:polygon
-Regions:LFPO VPE EST:polygon
+Geo:LFPO Vectors INI Est:
+Geo:LFPO Vectors VEBEKXE:
+Regions:LFPG VPE Est:polygon
+Regions:LFPO VPE Est:polygon
 Runways:EBCI 06-24:centerline
 Runways:EBOS 08-26:centerline
 Runways:LFAB 13-31:centerline
@@ -169,8 +173,6 @@ Runways:LFEW 05-23:centerline
 Runways:LFEY 04-22:centerline
 Runways:LFEY 14-32:centerline
 Runways:LFFI 07-25:centerline
-Runways:LFFK 09-27:centerline
-Runways:LFFK 09R-27L:centerline
 Runways:LFFN 10R-28L:centerline
 Runways:LFFO 10-28:centerline
 Runways:LFFX 01-19:centerline
@@ -501,28 +503,10 @@ Runways:LSZB 14R-32L:centerline
 Runways:LSZH 10-28:centerline
 Runways:LSZH 14-32:centerline
 Runways:LSZH 16-34:centerline
-Stars:LFPG STAR 08L BIBAX8E:
-Stars:LFPG STAR 08L DINAN8E:
-Stars:LFPG STAR 08L DJL8E:
-Stars:LFPG STAR 08L EPL8E:
-Stars:LFPG STAR 08L KEPER7E:
-Stars:LFPG STAR 08L KOVAK7E:
-Stars:LFPG STAR 08L LUKIP8E:
-Stars:LFPG STAR 08L MATIX8E:
-Stars:LFPG STAR 08L MOPIL8E:
-Stars:LFPG STAR 08L MOU8E:
-Stars:LFPG STAR 08L PIBAT8E:
-Stars:LFPG STAR 08L RLP8E:
-Stars:LFPG STAR 08L RLP8H:
-Stars:LFPG STAR 08L ROMGO7E:
-Stars:LFPG STAR 08L SABLE7E:
-Stars:LFPG STAR 08L TINIL8E:
-Stars:LFPG STAR 08L TRO8E:
-Stars:LFPG STAR 08L VEDUS8E:
 SHOWC:1
 SHOWSB:0
 BELOW:100
-ABOVE:0
+ABOVE:24000
 LEADER:5
 SHOWLEADER:0
 TURNLEADER:0
@@ -532,4 +516,11 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:CoFrance Approach
-WINDOWAREA:48.604716:1.323093:49.287382:3.285001
+WINDOWAREA:48.279382:0.388121:49.612716:4.219973
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:1
+PLUGIN:CoFrance:FILTABOVE:24000
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:1
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2

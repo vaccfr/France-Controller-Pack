@@ -1,12 +1,13 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Pierre\Documents\EuroScope\LFXX-LFXX_20201017172412-201101-0002.sct
+SECTORTITLE:LFXX-LFXX_20201017172412-201101-0002.sct
 ARTCC boundary:TMA LFPG TMA Paris:
-ARTCC low boundary:Tower CTR LFPG Paris 1 Tower:
 ARTCC low boundary:Tower CTR LFPG Paris 2 Tower:
 ARTCC low boundary:Tower CTR LFPG Paris 3 Tower:
+ARTCC low boundary:Tower CTR LFPT Pontoise Tower:
+ARTCC low boundary:Tower CTR LFPV Villacoublay Tower:
 Fixes:BANOX:name
 Fixes:BANOX:symbol
 Fixes:LORNI:name
@@ -38,12 +39,11 @@ Geo:LFPB Centerlines 27:
 Geo:LFPG Centerlines 26L:
 Geo:LFPG Centerlines 27R:
 Geo:LFPG Landmark Points VFR:
-Geo:LFPG Prohibited area Paris P23:
-Geo:LFPG Vectors INI OUEST:
+Geo:LFPG Vectors INI Ouest:
 Geo:LFPO Centerlines 25:
-Geo:LFPO Vectors INI OUEST:
-Geo:LFPO Vectors VEBEK 2W/2Y:
-Regions:LFPG VPE OUEST:polygon
+Geo:LFPO Vectors INI Ouest:
+Geo:LFPO Vectors VEBEKXW/Y:
+Regions:LFPG VPE Ouest:polygon
 Runways:EBCI 06-24:centerline
 Runways:EBOS 08-26:centerline
 Runways:LFAB 13-31:centerline
@@ -172,8 +172,6 @@ Runways:LFEW 05-23:centerline
 Runways:LFEY 04-22:centerline
 Runways:LFEY 14-32:centerline
 Runways:LFFI 07-25:centerline
-Runways:LFFK 09-27:centerline
-Runways:LFFK 09R-27L:centerline
 Runways:LFFN 10R-28L:centerline
 Runways:LFFO 10-28:centerline
 Runways:LFFX 01-19:centerline
@@ -518,23 +516,6 @@ Runways:LSZB 14R-32L:centerline
 Runways:LSZH 10-28:centerline
 Runways:LSZH 14-32:centerline
 Runways:LSZH 16-34:centerline
-Stars:LFPG STAR 26L BIBAX8W:
-Stars:LFPG STAR 26L DINAN8W:
-Stars:LFPG STAR 26L DJL8W:
-Stars:LFPG STAR 26L EPL8W:
-Stars:LFPG STAR 26L KEPER7W:
-Stars:LFPG STAR 26L KOVAK7W:
-Stars:LFPG STAR 26L LUKIP8W:
-Stars:LFPG STAR 26L MATIX8W:
-Stars:LFPG STAR 26L MOPIL8W:
-Stars:LFPG STAR 26L MOU8W:
-Stars:LFPG STAR 26L PIBAT8W:
-Stars:LFPG STAR 26L RLP8W:
-Stars:LFPG STAR 26L ROMGO7W:
-Stars:LFPG STAR 26L SABLE7W:
-Stars:LFPG STAR 26L TINIL8W:
-Stars:LFPG STAR 26L TRO8W:
-Stars:LFPG STAR 26L VEDUS8W:
 VORs:CTL:name
 VORs:CTL:symbol
 SHOWC:1
@@ -552,8 +533,8 @@ DisplayRotation:0.00000
 TAGFAMILY:CoFrance Approach
 WINDOWAREA:48.296520:0.715571:49.770454:4.951494
 PLUGIN:CoFrance:APP:1
-PLUGIN:CoFrance:FILT:0
-PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILT:1
+PLUGIN:CoFrance:FILTABOVE:24000
 PLUGIN:CoFrance:FILTBELOW:0
 PLUGIN:CoFrance:RAD:1
 PLUGIN:CoFrance:VV:0
