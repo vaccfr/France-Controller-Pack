@@ -41,7 +41,7 @@
 .cl Runway $deprwy, cleared to $arr via $sid departure, climb to $temp , squawk $squawk.
 .clf Piste $deprwy, mise en route approuve vers $arr, depart $sid, montez $temp, transpondeur $squawk.
 .clv Runway $deprwy, cleared to $arr via vectored departure. After departure climb to $temp and maintain runway heading, squawk $squawk.
-.clv Piste $deprwy, mise en route approuve vers $arr, depart omnidirectionnel. Montez $temp dans l'axe, transpondeur $squawk.
+.clvf Piste $deprwy, mise en route approuve vers $arr, depart omnidirectionnel. Montez $temp dans l'axe, transpondeur $squawk.
 .sid? Are you able to fly the $sid departure?
 
 ;*** 06 Startup / Pushback ***
@@ -70,7 +70,7 @@
 .tv Taxi via $1.
 .tvf Roulez via $1.
 .thp Taxi to holding point runway $deprwy via $1.
-.thp Roulez au point d'attente piste $deprwy via $1.  
+.thpf Roulez au point d'attente piste $deprwy via $1.  
 .tihp Taxi to intermediate holding position $1 (runway $deprwy) via $2. 
 .tts Taxi to stand $1 via $2. 
 .ttg Taxi to gate $1 via $2. 
@@ -106,7 +106,7 @@
 .tl Turn left heading $1.
 .tlf Tournez à gauche cap $1.
 .tr Turn right heading $1.
-.tlf Tournez à droite cap $1.
+.trf Tournez à droite cap $1.
 .tldf Tournez à gauche cirect $1.
 .trdf Tournez à droite direct $1.
 .fh Fly heading $1.
