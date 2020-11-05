@@ -1,801 +1,801 @@
 PROFILE
 PROFILE:LFAQ_TWR:30:4
 ATIS2:Albert-Bray Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFAQ
+ATIS3:Check the charts! chartfox.org/LFAQ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFAT_TWR:30:4
 ATIS2:Le Touquet Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFAT
+ATIS3:Check the charts! chartfox.org/LFAT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBA_TWR:30:4
 ATIS2:Agen Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBA
+ATIS3:Check the charts! chartfox.org/LFBA
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBB_CTR:300:6
 ATIS2:Bordeaux Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBB
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBB_N_CTR:300:6
 ATIS2:Bordeaux Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBB
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBB_S_CTR:300:6
 ATIS2:Bordeaux Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBB
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBD_APP:120:5
 ATIS2:Aquitaine Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBD
+ATIS3:Check the charts! chartfox.org/LFBD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBD_E_APP:120:5
 ATIS2:Aquitaine East Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBD
+ATIS3:Check the charts! chartfox.org/LFBD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBD_GND:10:3
 ATIS2:Merignac Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBD
+ATIS3:Check the charts! chartfox.org/LFBD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBD_TWR:30:4
 ATIS2:Merignac Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBD
+ATIS3:Check the charts! chartfox.org/LFBD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBE_TWR:30:4
 ATIS2:Bergerac Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBE
+ATIS3:Check the charts! chartfox.org/LFBE
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBG_TWR:30:4
 ATIS2:Cognac Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBG
+ATIS3:Check the charts! chartfox.org/LFBG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBH_APP:120:5
 ATIS2:La Rochelle Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBH
+ATIS3:Check the charts! chartfox.org/LFBH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBH_TWR:30:4
 ATIS2:La Rochelle Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBH
+ATIS3:Check the charts! chartfox.org/LFBH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBI_APP:120:5
 ATIS2:Poitiers Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBI
+ATIS3:Check the charts! chartfox.org/LFBI
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBI_TWR:30:4
 ATIS2:Poitiers Biard Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBI
+ATIS3:Check the charts! chartfox.org/LFBI
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBL_APP:120:5
 ATIS2:Limoge Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBL
+ATIS3:Check the charts! chartfox.org/LFBL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBL_TWR:30:4
 ATIS2:Limoges Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBL
+ATIS3:Check the charts! chartfox.org/LFBL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBO_APP:120:5
 ATIS2:Toulouse Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBO
+ATIS3:Check the charts! chartfox.org/LFBO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBO_DEL:10:2
 ATIS2:Blagnac Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBO
+ATIS3:Check the charts! chartfox.org/LFBO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBO_E_APP:120:5
 ATIS2:Toulouse East Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBO
+ATIS3:Check the charts! chartfox.org/LFBO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBO_GND:10:3
 ATIS2:Blagnac Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBO
+ATIS3:Check the charts! chartfox.org/LFBO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBO_TWR:30:4
 ATIS2:Blagnac Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBO
+ATIS3:Check the charts! chartfox.org/LFBO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBO_W_APP:120:5
 ATIS2:Toulouse West Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBO
+ATIS3:Check the charts! chartfox.org/LFBO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBP_APP:120:5
 ATIS2:Pyrennees Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBP
+ATIS3:Check the charts! chartfox.org/LFBP
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBP_GND:10:3
 ATIS2:Pau Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBP
+ATIS3:Check the charts! chartfox.org/LFBP
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBP_TWR:30:4
 ATIS2:Pau Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBP
+ATIS3:Check the charts! chartfox.org/LFBP
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBT_GND:10:3
 ATIS2:Lourdes Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBT
+ATIS3:Check the charts! chartfox.org/LFBT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBT_TWR:30:4
 ATIS2:Lourdes Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBT
+ATIS3:Check the charts! chartfox.org/LFBT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBZ_APP:120:5
 ATIS2:Biarritz Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBZ
+ATIS3:Check the charts! chartfox.org/LFBZ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBZ_GND:10:3
 ATIS2:Biarritz Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBZ
+ATIS3:Check the charts! chartfox.org/LFBZ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFBZ_TWR:30:4
 ATIS2:Biarritz Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFBZ
+ATIS3:Check the charts! chartfox.org/LFBZ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFCL_TWR:30:4
 ATIS2:Lasbordes Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFCL
+ATIS3:Check the charts! chartfox.org/LFCL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFCR_TWR:30:4
 ATIS2:Rodez Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFCR
+ATIS3:Check the charts! chartfox.org/LFCR
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFEE_CTR:300:6
 ATIS2:Reims Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFEE
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFEE_N_CTR:300:6
 ATIS2:Reims Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFEE
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFEE_S_CTR:300:6
 ATIS2:Reims Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFEE
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFFF_CTR:300:6
 ATIS2:Paris Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFFF
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFFF_N_CTR:300:6
 ATIS2:Paris Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFFF
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFFF_S_CTR:300:6
 ATIS2:Paris Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFFF
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFFF_W_CTR:300:6
 ATIS2:Paris Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFFF
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFFM_CTR:300:6
 ATIS2:France Military Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFFM
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFGA_TWR:30:4
 ATIS2:Houssen Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFGA
+ATIS3:Check the charts! chartfox.org/LFGA
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFGJ_TWR:30:4
 ATIS2:Dole Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFGJ
+ATIS3:Check the charts! chartfox.org/LFGJ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFJL_APP:120:5
 ATIS2:Lorraine Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFJL
+ATIS3:Check the charts! chartfox.org/LFJL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFJL_GND:10:3
 ATIS2:Lorraine Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFJL
+ATIS3:Check the charts! chartfox.org/LFJL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFJL_TWR:30:4
 ATIS2:Lorraine Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFJL
+ATIS3:Check the charts! chartfox.org/LFJL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKB_APP:120:5
 ATIS2:Bastia Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKB
+ATIS3:Check the charts! chartfox.org/LFKB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKB_GND:10:3
 ATIS2:Bastia Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKB
+ATIS3:Check the charts! chartfox.org/LFKB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKB_I_APP:120:5
 ATIS2:Bastia Information - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKB
+ATIS3:Check the charts! chartfox.org/LFKB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKB_TWR:30:4
 ATIS2:Bastia Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKB
+ATIS3:Check the charts! chartfox.org/LFKB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKC_GND:10:3
 ATIS2:Calvi Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKC
+ATIS3:Check the charts! chartfox.org/LFKC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKC_TWR:30:4
 ATIS2:Calvi Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKC
+ATIS3:Check the charts! chartfox.org/LFKC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKF_GND:10:3
 ATIS2:Figari Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKF
+ATIS3:Check the charts! chartfox.org/LFKF
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKF_TWR:30:4
 ATIS2:Figari Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKF
+ATIS3:Check the charts! chartfox.org/LFKF
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKJ_APP:120:5
 ATIS2:Ajaccio Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKJ
+ATIS3:Check the charts! chartfox.org/LFKJ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKJ_GND:10:3
 ATIS2:Ajaccio Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKJ
+ATIS3:Check the charts! chartfox.org/LFKJ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKJ_I_APP:120:5
 ATIS2:Ajaccio Information - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKJ
+ATIS3:Check the charts! chartfox.org/LFKJ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFKJ_TWR:30:4
 ATIS2:Ajaccio Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFKJ
+ATIS3:Check the charts! chartfox.org/LFKJ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLB_APP:120:5
 ATIS2:Chamb�ry Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLB
+ATIS3:Check the charts! chartfox.org/LFLB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLB_TWR:30:4
 ATIS2:Chamb�ry Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLB
+ATIS3:Check the charts! chartfox.org/LFLB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLC_APP:120:5
 ATIS2:Clermont Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLC
+ATIS3:Check the charts! chartfox.org/LFLC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLC_GND:10:3
 ATIS2:Clermont Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLC
+ATIS3:Check the charts! chartfox.org/LFLC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLC_I_APP:120:5
 ATIS2:Clermont Information - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLC
+ATIS3:Check the charts! chartfox.org/LFLC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLC_TWR:30:4
 ATIS2:Clermont Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLC
+ATIS3:Check the charts! chartfox.org/LFLC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLD_I_TWR:30:4
 ATIS2:Bourges AFIS - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLD
+ATIS3:Check the charts! chartfox.org/LFLD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLG_GND:10:3
 ATIS2:Le Versoux ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLG
+ATIS3:Check the charts! chartfox.org/LFLG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLG_TWR:30:4
 ATIS2:Le Versoux Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLG
+ATIS3:Check the charts! chartfox.org/LFLG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLL_APP:120:5
 ATIS2:Lyon Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLL
+ATIS3:Check the charts! chartfox.org/LFLL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLL_DEL:10:2
 ATIS2:Saint Exup�ry Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLL
+ATIS3:Check the charts! chartfox.org/LFLL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLL_DEP:120:5
 ATIS2:Lyon Departure - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLL
+ATIS3:Check the charts! chartfox.org/LFLL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLL_GND:10:3
 ATIS2:Saint Exup�ry Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLL
+ATIS3:Check the charts! chartfox.org/LFLL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLL_TWR:30:4
 ATIS2:Saint-Exup�ry Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLL
+ATIS3:Check the charts! chartfox.org/LFLL
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLP_TWR:30:4
 ATIS2:Annecy Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLP
+ATIS3:Check the charts! chartfox.org/LFLP
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLS_APP:120:5
 ATIS2:Grenoble Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLS
+ATIS3:Check the charts! chartfox.org/LFLS
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLS_GND:10:3
 ATIS2:Grenoble Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLS
+ATIS3:Check the charts! chartfox.org/LFLS
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLS_TWR:30:4
 ATIS2:Grenoble Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLS
+ATIS3:Check the charts! chartfox.org/LFLS
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLV_I_TWR:30:4
 ATIS2:Vichy AFIS - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLV
+ATIS3:Check the charts! chartfox.org/LFLV
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLX_TWR:30:4
 ATIS2:Chateauroux Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLX
+ATIS3:Check the charts! chartfox.org/LFLX
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLY_GND:10:3
 ATIS2:Bron Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLY
+ATIS3:Check the charts! chartfox.org/LFLY
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFLY_TWR:30:4
 ATIS2:Bron Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFLY
+ATIS3:Check the charts! chartfox.org/LFLY
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMA_TWR:30:4
 ATIS2:Aix Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMA
+ATIS3:Check the charts! chartfox.org/LFMA
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMD_GND:10:3
 ATIS2:Mandelieu Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMD
+ATIS3:Check the charts! chartfox.org/LFMD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMD_TWR:30:4
 ATIS2:Cannes Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMD
+ATIS3:Check the charts! chartfox.org/LFMD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMH_TWR:30:4
 ATIS2:Saint Etienne Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMH
+ATIS3:Check the charts! chartfox.org/LFMH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMI_TWR:30:4
 ATIS2:Le Tube Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMI
+ATIS3:Check the charts! chartfox.org/LFMI
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMK_TWR:30:4
 ATIS2:Carcassonne Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMK
+ATIS3:Check the charts! chartfox.org/LFMK
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFML_APP:120:5
 ATIS2:Provence Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFML
+ATIS3:Check the charts! chartfox.org/LFML
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFML_DEL:10:2
 ATIS2:Provence Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFML
+ATIS3:Check the charts! chartfox.org/LFML
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFML_GND:10:3
 ATIS2:Provence Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFML
+ATIS3:Check the charts! chartfox.org/LFML
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFML_I_APP:120:5
 ATIS2:Provence Information - EN/FR
-ATIS3:Check the charts! chartfox.com/LFML
+ATIS3:Check the charts! chartfox.org/LFML
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFML_S_APP:120:5
 ATIS2:Provence South Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFML
+ATIS3:Check the charts! chartfox.org/LFML
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFML_TWR:30:4
 ATIS2:Provence Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFML
+ATIS3:Check the charts! chartfox.org/LFML
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMM_CTR:300:6
 ATIS2:Marseille Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMM
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMM_N_CTR:300:6
 ATIS2:Marseille Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMM
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMM_U_CTR:300:6
 ATIS2:Marseille Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMM
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMN_APP:120:5
 ATIS2:Nice Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMN
+ATIS3:Check the charts! chartfox.org/LFMN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMN_DEL:10:2
 ATIS2:Nice Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMN
+ATIS3:Check the charts! chartfox.org/LFMN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMN_DEP:120:5
 ATIS2:Nice Departure - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMN
+ATIS3:Check the charts! chartfox.org/LFMN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMN_F_APP:120:5
 ATIS2:Nice Arrival - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMN
+ATIS3:Check the charts! chartfox.org/LFMN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMN_GND:10:3
 ATIS2:Nice Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMN
+ATIS3:Check the charts! chartfox.org/LFMN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMN_I_APP:120:5
 ATIS2:Nice Information - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMN
+ATIS3:Check the charts! chartfox.org/LFMN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMN_TWR:30:4
 ATIS2:Nice Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMN
+ATIS3:Check the charts! chartfox.org/LFMN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMO_TWR:30:4
 ATIS2:Orange Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMO
+ATIS3:Check the charts! chartfox.org/LFMO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMP_TWR:30:4
 ATIS2:Perpignan Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMP
+ATIS3:Check the charts! chartfox.org/LFMP
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMT_APP:120:5
 ATIS2:Montpellier Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMT
+ATIS3:Check the charts! chartfox.org/LFMT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMT_GND:10:3
 ATIS2:Montpellier Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMT
+ATIS3:Check the charts! chartfox.org/LFMT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMT_I_APP:120:5
 ATIS2:Montpellier Information - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMT
+ATIS3:Check the charts! chartfox.org/LFMT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMT_S_APP:120:5
 ATIS2:Montpellier Sud Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMT
+ATIS3:Check the charts! chartfox.org/LFMT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMT_TWR:30:4
 ATIS2:Montpellier Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMT
+ATIS3:Check the charts! chartfox.org/LFMT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMU_TWR:30:4
 ATIS2:Beziers Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMU
+ATIS3:Check the charts! chartfox.org/LFMU
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFMV_TWR:30:4
 ATIS2:Avignon Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFMV
+ATIS3:Check the charts! chartfox.org/LFMV
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOA_APP:120:5
 ATIS2:Avord Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOA
+ATIS3:Check the charts! chartfox.org/LFOA
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOA_TWR:30:4
 ATIS2:Avord Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOA
+ATIS3:Check the charts! chartfox.org/LFOA
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOB_APP:120:5
 ATIS2:Beauvais Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOB
+ATIS3:Check the charts! chartfox.org/LFOB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOB_TWR:30:4
 ATIS2:Beauvais Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOB
+ATIS3:Check the charts! chartfox.org/LFOB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOC_TWR:30:4
 ATIS2:Chateaudun Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOC
+ATIS3:Check the charts! chartfox.org/LFOC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOH_I_TWR:30:4
 ATIS2:Le Havre AFIS - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOH
+ATIS3:Check the charts! chartfox.org/LFOH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOJ_APP:120:5
 ATIS2:Orl�ans Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOJ
+ATIS3:Check the charts! chartfox.org/LFOJ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOJ_TWR:30:4
 ATIS2:Orl�ans Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOJ
+ATIS3:Check the charts! chartfox.org/LFOJ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOP_APP:120:5
 ATIS2:Rouen Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOP
+ATIS3:Check the charts! chartfox.org/LFOP
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOP_TWR:30:4
 ATIS2:Rouen Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOP
+ATIS3:Check the charts! chartfox.org/LFOP
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOT_APP:120:5
 ATIS2:Tours Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOT
+ATIS3:Check the charts! chartfox.org/LFOT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOT_TWR:30:4
 ATIS2:Tours Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOT
+ATIS3:Check the charts! chartfox.org/LFOT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFOU_I_TWR:30:4
 ATIS2:Cholet AFIS - EN/FR
-ATIS3:Check the charts! chartfox.com/LFOU
+ATIS3:Check the charts! chartfox.org/LFOU
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPB_DEL:10:2
 ATIS2:Le Bourget Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPB
+ATIS3:Check the charts! chartfox.org/LFPB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPB_GND:10:3
 ATIS2:Le Bourget Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPB
+ATIS3:Check the charts! chartfox.org/LFPB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPB_TWR:30:4
 ATIS2:Le Bourget Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPB
+ATIS3:Check the charts! chartfox.org/LFPB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_APP:120:5
 ATIS2:De Gaulle Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_A_GND:10:3
 ATIS2:De Gaulle Apron - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_DEL:10:2
 ATIS2:De Gaulle Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_DEP:120:5
 ATIS2:De Gaulle Departure - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_F_APP:120:5
 ATIS2:De Gaulle Arrival - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_GND:10:3
 ATIS2:De Gaulle Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_G_APP:120:5
 ATIS2:De Gaulle Arrival - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_S_APP:120:5
 ATIS2:De Gaulle Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_S_DEP:120:5
 ATIS2:De Gaulle Departure - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_S_GND:10:3
 ATIS2:De Gaulle Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_S_TWR:30:4
 ATIS2:De Gaulle Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPG_TWR:30:4
 ATIS2:De Gaulle Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPG
+ATIS3:Check the charts! chartfox.org/LFPG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPN_TWR:30:4
 ATIS2:Toussus Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPN
+ATIS3:Check the charts! chartfox.org/LFPN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPO_APP:120:5
 ATIS2:Orly Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPO
+ATIS3:Check the charts! chartfox.org/LFPO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPO_DEL:10:2
 ATIS2:Orly Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPO
+ATIS3:Check the charts! chartfox.org/LFPO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPO_DEP:120:5
 ATIS2:Orly Departure - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPO
+ATIS3:Check the charts! chartfox.org/LFPO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPO_F_APP:120:5
 ATIS2:Orly Arrival - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPO
+ATIS3:Check the charts! chartfox.org/LFPO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPO_GND:10:3
 ATIS2:Orly Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPO
+ATIS3:Check the charts! chartfox.org/LFPO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFPO_TWR:30:4
 ATIS2:Orly Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFPO
+ATIS3:Check the charts! chartfox.org/LFPO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFQQ_APP:120:5
 ATIS2:Lille Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFQQ
+ATIS3:Check the charts! chartfox.org/LFQQ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFQQ_GND:10:3
 ATIS2:Lille Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFQQ
+ATIS3:Check the charts! chartfox.org/LFQQ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFQQ_TWR:30:4
 ATIS2:Lille Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFQQ
+ATIS3:Check the charts! chartfox.org/LFQQ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFQT_TWR:30:4
 ATIS2:Merville Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFQT
+ATIS3:Check the charts! chartfox.org/LFQT
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRB_APP:120:5
 ATIS2:Iroise Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRB
+ATIS3:Check the charts! chartfox.org/LFRB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRB_I_APP:120:5
 ATIS2:Brest Info - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRB
+ATIS3:Check the charts! chartfox.org/LFRB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRB_TWR:30:4
 ATIS2:Bretagne Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRB
+ATIS3:Check the charts! chartfox.org/LFRB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRC_I_TWR:30:4
 ATIS2:Cherbourg AFIS - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRC
+ATIS3:Check the charts! chartfox.org/LFRC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRD_TWR:30:4
 ATIS2:Dinard Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRD
+ATIS3:Check the charts! chartfox.org/LFRD
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRG_APP:120:5
 ATIS2:Deauville Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRG
+ATIS3:Check the charts! chartfox.org/LFRG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRG_TWR:30:4
 ATIS2:Deauville Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRG
+ATIS3:Check the charts! chartfox.org/LFRG
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRH_APP:120:5
 ATIS2:Lorient Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRH
+ATIS3:Check the charts! chartfox.org/LFRH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRH_TWR:30:4
 ATIS2:Lorient Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRH
+ATIS3:Check the charts! chartfox.org/LFRH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRK_TWR:30:4
 ATIS2:Caen Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRK
+ATIS3:Check the charts! chartfox.org/LFRK
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRN_APP:120:5
 ATIS2:Rennes Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRN
+ATIS3:Check the charts! chartfox.org/LFRN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRN_C_APP:120:5
 ATIS2:Contentin Info - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRN
+ATIS3:Check the charts! chartfox.org/LFRN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRN_GND:10:3
 ATIS2:Rennes Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRN
+ATIS3:Check the charts! chartfox.org/LFRN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRN_N_APP:120:5
 ATIS2:Rennes North Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRN
+ATIS3:Check the charts! chartfox.org/LFRN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRN_TWR:30:4
 ATIS2:Rennes Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRN
+ATIS3:Check the charts! chartfox.org/LFRN
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRQ_TWR:30:4
 ATIS2:Quimper Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRQ
+ATIS3:Check the charts! chartfox.org/LFRQ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRR_CTR:300:6
 ATIS2:Brest Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRR
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRR_E_CTR:300:6
 ATIS2:Brest Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRR
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRR_L_CTR:300:6
 ATIS2:Brest Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRR
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRR_N_CTR:300:6
 ATIS2:Brest Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRR
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRR_S_CTR:300:6
 ATIS2:Brest Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRR
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRS_APP:120:5
 ATIS2:Nantes Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRS
+ATIS3:Check the charts! chartfox.org/LFRS
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRS_GND:10:3
 ATIS2:Nantes Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRS
+ATIS3:Check the charts! chartfox.org/LFRS
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRS_N_APP:120:5
 ATIS2:Nantes Information - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRS
+ATIS3:Check the charts! chartfox.org/LFRS
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRS_TWR:30:4
 ATIS2:Nantes Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRS
+ATIS3:Check the charts! chartfox.org/LFRS
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFRZ_TWR:30:4
 ATIS2:Saint Nazaire Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFRZ
+ATIS3:Check the charts! chartfox.org/LFRZ
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSB_APP:120:5
 ATIS2:Bale Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSB
+ATIS3:Check the charts! chartfox.org/LFSB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSB_C_APP:120:5
 ATIS2:Bale Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSB
+ATIS3:Check the charts! chartfox.org/LFSB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSB_DEL:10:2
 ATIS2:Bale Delivery - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSB
+ATIS3:Check the charts! chartfox.org/LFSB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSB_GND:10:3
 ATIS2:Bale Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSB
+ATIS3:Check the charts! chartfox.org/LFSB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSB_TWR:30:4
 ATIS2:Bale Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSB
+ATIS3:Check the charts! chartfox.org/LFSB
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSF_TWR:30:4
 ATIS2:Metz Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSF
+ATIS3:Check the charts! chartfox.org/LFSF
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSI_TWR:30:4
 ATIS2:Saint Dizier Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSI
+ATIS3:Check the charts! chartfox.org/LFSI
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSO_TWR:30:4
 ATIS2:Ochey Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSO
+ATIS3:Check the charts! chartfox.org/LFSO
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSR_APP:120:5
 ATIS2:Reims Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSR
+ATIS3:Check the charts! chartfox.org/LFSR
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSR_TWR:30:4
 ATIS2:Reims Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSR
+ATIS3:Check the charts! chartfox.org/LFSR
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFST_APP:120:5
 ATIS2:Strasbourg Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFST
+ATIS3:Check the charts! chartfox.org/LFST
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFST_GND:10:3
 ATIS2:Strasbourg Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFST
+ATIS3:Check the charts! chartfox.org/LFST
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFST_TWR:30:4
 ATIS2:Strasbourg Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFST
+ATIS3:Check the charts! chartfox.org/LFST
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFSX_TWR:30:4
 ATIS2:Luxeuil Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFSX
+ATIS3:Check the charts! chartfox.org/LFSX
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFTH_APP:120:5
 ATIS2:Toulon Approach - EN/FR
-ATIS3:Check the charts! chartfox.com/LFTH
+ATIS3:Check the charts! chartfox.org/LFTH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFTH_GND:10:3
 ATIS2:Palyvestre Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFTH
+ATIS3:Check the charts! chartfox.org/LFTH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFTH_TWR:30:4
 ATIS2:Palyvestre Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFTH
+ATIS3:Check the charts! chartfox.org/LFTH
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFTW_GND:10:3
 ATIS2:Garons Ground - EN/FR
-ATIS3:Check the charts! chartfox.com/LFTW
+ATIS3:Check the charts! chartfox.org/LFTW
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFTW_TWR:30:4
 ATIS2:Garons Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFTW
+ATIS3:Check the charts! chartfox.org/LFTW
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFUP_CTR:300:6
 ATIS2:FRANCE Control - EN/FR
-ATIS3:Check the charts! chartfox.com/LFUP
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LFYR_TWR:30:4
 ATIS2:Romorantin Tower - EN/FR
-ATIS3:Check the charts! chartfox.com/LFYR
+ATIS3:Check the charts! chartfox.org/LFYR
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LIUP_CTR:300:6
 ATIS2:Italy Radar - EN/FR
-ATIS3:Check the charts! chartfox.com/LIUP
+ATIS3:Check the charts! www.chartfox.org
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
 PROFILE:LNMC_TWR:30:4
 ATIS2:Monaco Monte Carlo - EN/FR
-ATIS3:Check the charts! chartfox.com/LNMC
+ATIS3:Check the charts! chartfox.org/LNMC
 ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
