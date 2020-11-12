@@ -46,6 +46,8 @@ Plugins	Plugin3Display0	SMR radar display
 Plugins	Plugin4	\LFXX\Plugins\VCH.dll
 Plugins	Plugin4Display0	SMR radar display
 Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin5	\LFXX\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin5Display0	SMR radar display
 Sounds	Sound0	\LFXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LFXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LFXX\Sounds\conflict_alert.wav
